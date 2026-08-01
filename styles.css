@@ -2,6 +2,7 @@
    etienneunai.com — design tokens
    ============================================================ */
 :root {
+  color-scheme: light;
   --bg:      #FAFAEA;  /* Ivory */
   --brand:   #800000;  /* Maroon */
   --text:    #453018;  /* Deep Walnut */
@@ -37,6 +38,11 @@ body {
   outline-offset: 3px;
 }
 
+::selection {
+  background: var(--caramel);
+  color: var(--bg);
+}
+
 /* ============ Header ============ */
 .site-header { padding: 2rem 0 1rem; }
 
@@ -56,6 +62,7 @@ body {
   letter-spacing: -0.02em;
   color: var(--brand);
   line-height: 1.15;
+  white-space: nowrap;
 }
 
 .wip-badge {
@@ -89,36 +96,41 @@ body {
 }
 
 .contact-btn {
-  display: inline-flex;
+  display: grid;
+  grid-template-columns: 3rem 0fr;
   align-items: center;
-  justify-content: center;
-  width: 3rem;
+  width: auto;
+  max-width: 3rem;
   height: 3rem;
   padding: 0;
+  overflow: hidden;
   background: var(--oak);
   border: 1px solid var(--oak);
   border-radius: var(--radius);
   color: var(--text);
   text-decoration: none;
   transition: background-color 0.2s ease, color 0.2s ease,
-              width 0.35s ease, padding 0.35s ease;
+              max-width 0.35s ease, padding 0.35s ease,
+              grid-template-columns 0.35s ease;
 }
 
-.contact-btn .btn-icon { flex: none; }
+.contact-btn .btn-icon { grid-column: 1; justify-self: center; }
 
 .btn-label {
-  max-width: 0;
-  margin-left: 0;
+  grid-column: 2;
+  min-width: 0;
+  margin-left: 0.75rem;
   overflow: hidden;
   white-space: nowrap;
   opacity: 0;
-  transition: max-width 0.35s ease, margin-left 0.35s ease, opacity 0.35s ease;
+  transition: opacity 0.35s ease;
 }
 
 .contact-btn:hover,
 .contact-btn:focus-visible {
-  width: auto;
-  padding: 0 1.1rem;
+  grid-template-columns: 3rem 1fr;
+  max-width: 20rem;
+  padding: 0 1.1rem 0 0;
   background: var(--text);
   border-color: var(--text);
   color: var(--caramel);
@@ -126,8 +138,6 @@ body {
 
 .contact-btn:hover .btn-label,
 .contact-btn:focus-visible .btn-label {
-  max-width: 20rem;
-  margin-left: 0.75rem;
   opacity: 1;
 }
 
@@ -164,13 +174,13 @@ body {
 .project-desc { margin: 0 0 1rem; }
 
 .project-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.25rem 1.25rem;
   font-weight: 600;
 }
 
+.project-links a ~ a { margin-top: 0.5rem; }
+
 .project-links a {
+  display: inline-block;
   color: var(--brand);
   text-decoration: none;
   border-bottom: 1px solid transparent;
@@ -200,8 +210,13 @@ body {
 /* Touch devices: buttons stack full-width, labels always visible */
 @media (hover: none) {
   .contact-list { flex-direction: column; }
-  .contact-btn { width: 100%; justify-content: flex-start; padding: 0 1.1rem; }
-  .btn-label { max-width: none; margin-left: 0.75rem; overflow: visible; opacity: 1; }
+  .contact-btn {
+    width: 100%;
+    max-width: none;
+    grid-template-columns: 3rem 1fr;
+    padding: 0 1.1rem 0 0;
+  }
+  .btn-label { opacity: 1; }
 }
 
 /* Reduced motion: no transitions, labels always visible */
@@ -211,16 +226,12 @@ body {
     transition: none !important;
   }
   .contact-btn {
-    width: auto !important;
-    justify-content: flex-start !important;
-    padding: 0 1.1rem !important;
-  }
-  .btn-label {
     max-width: none !important;
-    margin-left: 0.75rem !important;
-    overflow: visible !important;
-    opacity: 1 !important;
+    grid-template-columns: 3rem 1fr !important;
+    width: auto !important;
+    padding: 0 1.1rem 0 0 !important;
   }
+  .btn-label { opacity: 1 !important; }
 }
 
 /* ============ Utilities ============ */

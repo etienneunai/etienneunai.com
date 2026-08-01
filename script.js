@@ -91,6 +91,39 @@
     }
   }
 
+  // Keep the brand's hover box at least as wide as the full name, even while
+  // the (narrower) scrambled text is showing. Otherwise a cursor parked to the
+  // right of "etienneunai.com" falls outside the element once it shrinks,
+  // causing an enter/leave flicker loop.
+  function measureDefaultWidth() {
+    const probe = document.createElement('span');
+    probe.style.cssText = 'position:absolute;visibility:hidden;white-space:nowrap;';
+    const styles = getComputedStyle(brand);
+    probe.style.font = styles.font;                 // match Ovo size/weight exactly
+    probe.style.letterSpacing = styles.letterSpacing;
+    probe.textContent = brand.dataset.default;
+    document.body.appendChild(probe);
+    const width = probe.getBoundingClientRect().width;
+    probe.remove();
+    return width;
+  }
+
+  function sizeBrand() {
+    brand.style.minWidth = Math.ceil(measureDefaultWidth()) + 48 + 'px';
+  }
+
+  if (canHover) {
+    sizeBrand(); // fallback with pre-font metrics
+    if (document.fonts && document.fonts.ready) {
+      document.fonts.ready.then(sizeBrand);
+    }
+    let resizeTimer;
+    window.addEventListener('resize', () => {
+      clearTimeout(resizeTimer);
+      resizeTimer = setTimeout(sizeBrand, 100);
+    });
+  }
+
   const scramble = new TextScramble(brand);
 
   if (canHover) {
@@ -104,7 +137,7 @@
       revertTimer = setTimeout(() => {
         revertTimer = null;
         scramble.to(brand.dataset.default, false);
-      }, 600);
+      }, 400);
     }
 
     function cancelRevert() {
