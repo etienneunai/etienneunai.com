@@ -200,7 +200,7 @@ body {
 /* Touch devices: buttons stack full-width, labels always visible */
 @media (hover: none) {
   .contact-list { flex-direction: column; }
-  .contact-btn { width: 100%; justify-content: flex-start; }
+  .contact-btn { width: 100%; justify-content: flex-start; padding: 0 1.1rem; }
   .btn-label { max-width: none; margin-left: 0.75rem; overflow: visible; opacity: 1; }
 }
 
