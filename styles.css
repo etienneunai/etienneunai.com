@@ -216,6 +216,22 @@ body {
   margin: 0.75rem 0 0;
 }
 
+/* ============ Coming Soon ============ */
+.coming-soon { padding-bottom: 3rem; }
+
+.ellipsis::after {
+  content: "";
+  animation: ellipsis-dots 1.5s steps(4, end) infinite;
+}
+
+@keyframes ellipsis-dots {
+  0%   { content: ""; }
+  25%  { content: "."; }
+  50%  { content: ".."; }
+  75%  { content: "..."; }
+  100% { content: "..."; }
+}
+
 /* ============ Footer ============ */
 .site-footer {
   border-top: 1px solid var(--oak);
