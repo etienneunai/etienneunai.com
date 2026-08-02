@@ -239,6 +239,13 @@ body {
     grid-template-columns: 3rem 1fr;
     padding: 0 1.1rem 0 0;
   }
+  .contact-btn:hover,
+  .contact-btn:focus-visible {
+    width: 100%;
+    max-width: none;
+    grid-template-columns: 3rem 1fr;
+    padding: 0 1.1rem 0 0;
+  }
   .btn-label { opacity: 1; }
 }
 
