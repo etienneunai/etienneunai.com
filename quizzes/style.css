@@ -3,9 +3,36 @@
    Overrides map styles to fit etienneunai.com design tokens
    ============================================================ */
 
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.site-header, .site-footer {
+  flex-shrink: 0;
+}
+
+main.container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 2rem;
+}
+
+.projects {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
 .map-viewport {
   width: 100%;
-  aspect-ratio: 16 / 10;
+  flex: 1;
+  min-height: 400px;
   background: var(--oak, #D0C6B0);
   border: 1px solid var(--oak, #D0C6B0);
   border-radius: var(--radius, 12px);
@@ -22,12 +49,17 @@
 /* Filter Navigation */
 .filter-controls {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
+  overflow-x: auto;
   gap: 10px;
   margin-top: 1rem;
+  padding-bottom: 10px;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
 }
 
 .filter-btn {
+  flex-shrink: 0;
   background: transparent;
   border: 1px solid var(--oak, #D0C6B0);
   color: var(--text, #453018);
@@ -93,20 +125,22 @@
 }
 
 .leaflet-popup-content a {
-  display: inline-block;
-  margin-top: 10px;
-  color: var(--bg, #FAFAEA);
-  background: var(--brand, #800000);
-  padding: 6px 12px;
-  border-radius: var(--radius, 12px);
+  display: block;
+  text-align: center;
+  margin-top: 15px;
+  color: var(--bg, #FAFAEA) !important;
+  background: var(--text, #453018);
+  padding: 10px 12px;
+  border-radius: 8px;
   text-decoration: none;
-  font-weight: 600;
-  font-size: 0.85rem;
-  transition: background-color 0.2s ease;
+  font-weight: 700;
+  font-size: 0.95rem;
+  transition: background-color 0.2s ease, transform 0.2s ease;
 }
 
 .leaflet-popup-content a:hover {
   background: var(--caramel, #C46210);
+  transform: translateY(-2px);
 }
 
 /* Custom map marker pulse effect - Maroon */
