@@ -1,0 +1,1115 @@
+{
+  "Sixty 30_36 Baltimore Parade, Merriwa WA 6030, Australia": {
+    "stationName": "Clarkson Station",
+    "distanceKm": 4.8,
+    "minutes": 13,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.6907461,115.7372241&destination=-31.6708384,115.7158376&travelmode=transit"
+  },
+  "The Landing Alkimos_Marmion Ave, Alkimos WA 6038, Australia": {
+    "stationName": "Alkimos Station",
+    "distanceKm": 0.5,
+    "minutes": 6,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.6151478,115.6925154&destination=-31.6137084,115.6874455&travelmode=walking"
+  },
+  "The B Bar_EX008/20 Settlers Ave, Baldivis WA 6171, Australia": {
+    "stationName": "Warnbro Station",
+    "distanceKm": 5.0,
+    "minutes": 7,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.3265639,115.7679697&destination=-32.334182,115.8150296&travelmode=transit"
+  },
+  "Victoria Park Hotel_605 Albany Hwy, Victoria Park WA 6100, Australia": {
+    "stationName": "Victoria Park Station",
+    "distanceKm": 1.4,
+    "minutes": 13,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9716,115.9022&destination=-31.980072,115.8993999&travelmode=transit"
+  },
+  "Varsity Whitfords_Whitfords Ave, Hillarys WA 6025, Australia": {
+    "stationName": "Whitfords Station",
+    "distanceKm": 3.4,
+    "minutes": 6,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.799407,115.7823322&destination=-31.7966183,115.757525&travelmode=transit"
+  },
+  "Varsity Morley_33 Rudloc Rd, Morley WA 6062, Australia": {
+    "stationName": "Morley Station",
+    "distanceKm": 2.7,
+    "minutes": 9,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.89598,115.91994&destination=-31.9002525,115.8979751&travelmode=transit"
+  },
+  "Varsity Innaloo_57 Liege St, Woodlands WA 6018, Australia": {
+    "stationName": "Stirling Station",
+    "distanceKm": 2.1,
+    "minutes": 10,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.8941455,115.8045988&destination=-31.9037855,115.7965326&travelmode=transit"
+  },
+  "Varsity Fremantle_11 Newman Ct, Fremantle WA 6160, Australia": {
+    "stationName": "Fremantle Station",
+    "distanceKm": 0.8,
+    "minutes": 4,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.0517959,115.7454766&destination=-32.0543563,115.7487673&travelmode=transit"
+  },
+  "Varsity Cannington_1525 Albany Hwy, Beckenham WA 6107, Australia": {
+    "stationName": "Beckenham Station",
+    "distanceKm": 0.8,
+    "minutes": 10,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.022431,115.9540747&destination=-32.0283764,115.9513624&travelmode=walking"
+  },
+  "The Windsor Hotel_112 Mill Point Rd, South Perth WA 6151, Australia": {
+    "stationName": "Elizabeth Quay Station",
+    "distanceKm": 2.3,
+    "minutes": 7,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9568537,115.8553249&destination=-31.9730822,115.8525972&travelmode=transit"
+  },
+  "The White Horse Tavern_124 Amazon Dr, Baldivis WA 6171, Australia": {
+    "stationName": "Warnbro Station",
+    "distanceKm": 6.8,
+    "minutes": 18,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.3265639,115.7679697&destination=-32.3126627,115.8128871&travelmode=transit"
+  },
+  "The Waverley Brewhouse_Rooftop Dining, Carousel Shopping Centre, Shop R207, Level 2/1382 Albany Hwy, Cannington WA 6107, Australia": {
+    "stationName": "Cannington Station",
+    "distanceKm": 1.2,
+    "minutes": 15,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.0135438,115.9449597&destination=-32.0184226,115.9386694&travelmode=walking"
+  },
+  "The Stirling Arms Hotel_117 James St, Guildford WA 6055, Australia": {
+    "stationName": "Guildford Station",
+    "distanceKm": 0.5,
+    "minutes": 6,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.8989307,115.9659178&destination=-31.8998292,115.9714377&travelmode=walking"
+  },
+  "The Stables_888 Hay St, Perth WA 6000, Australia": {
+    "stationName": "Perth Underground Station",
+    "distanceKm": 0.5,
+    "minutes": 6,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.95146,115.8582&destination=-31.9521897,115.8530969&travelmode=walking"
+  },
+  "The Sporting Globe_Shop FBN1/227 Belmont Ave, Cloverdale WA 6105, Australia": {
+    "stationName": "Victoria Park Station",
+    "distanceKm": 3.7,
+    "minutes": 15,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9716,115.9022&destination=-31.9651337,115.9329974&travelmode=transit"
+  },
+  "The Mighty Quinn Tavern_112 Wanneroo Rd, Yokine WA 6060, Australia": {
+    "stationName": "Glendalough Station",
+    "distanceKm": 2.8,
+    "minutes": 12,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9146896,115.8231252&destination=-31.9007952,115.8427775&travelmode=transit"
+  },
+  "The Little Bib_1/134 Parkway Rd, Bibra Lake WA 6163, Australia": {
+    "stationName": "Cockburn Central Station",
+    "distanceKm": 4.8,
+    "minutes": 14,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.12528,115.85834&destination=-32.0924503,115.8408051&travelmode=transit"
+  },
+  "The Hangar_15 Swan Bank Rd, Maylands WA 6051, Australia": {
+    "stationName": "Maylands Station",
+    "distanceKm": 2.2,
+    "minutes": 27,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9282855,115.8917529&destination=-31.9452024,115.9009708&travelmode=walking"
+  },
+  "The Guildford Hotel_159 James St, Guildford WA 6055, Australia": {
+    "stationName": "Guildford Station",
+    "distanceKm": 0.3,
+    "minutes": 4,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.8989307,115.9659178&destination=-31.8996603,115.9685622&travelmode=walking"
+  },
+  "The Grosvenor_339 Hay St, Perth WA 6000, Australia": {
+    "stationName": "McIver Station",
+    "distanceKm": 0.7,
+    "minutes": 9,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9517613,115.866463&destination=-31.9574758,115.8683812&travelmode=walking"
+  },
+  "The Chase Bar & Bistro_13 Settlers Ave, Baldivis WA 6171, Australia": {
+    "stationName": "Warnbro Station",
+    "distanceKm": 5.0,
+    "minutes": 7,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.3265639,115.7679697&destination=-32.3328247,115.8136215&travelmode=transit"
+  },
+  "The Alexander_322 Alexander Dr, Ballajura WA 6066, Australia": {
+    "stationName": "Ballajura Station",
+    "distanceKm": 5.1,
+    "minutes": 15,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.84978,115.92254&destination=-31.8268811,115.8774171&travelmode=transit"
+  },
+  "Sunny Social_102 Marmion Ave, Karrinyup WA 6018, Australia": {
+    "stationName": "Stirling Station",
+    "distanceKm": 4.8,
+    "minutes": 11,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.8941455,115.8045988&destination=-31.8686012,115.7655068&travelmode=transit"
+  },
+  "South Beach Hotel_396 South Terrace, South Fremantle WA 6162, Australia": {
+    "stationName": "Fremantle Station",
+    "distanceKm": 2.5,
+    "minutes": 8,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.0517959,115.7454766&destination=-32.0727697,115.753244&travelmode=transit"
+  },
+  "Rocky Ridge Burswood_84/88 Goodwood Pde., Burswood WA 6100, Australia": {
+    "stationName": "Burswood Station",
+    "distanceKm": 0.2,
+    "minutes": 3,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9601858,115.8999583&destination=-31.9584178,115.900555&travelmode=walking"
+  },
+  "Quarter Acre Hotel_767 Canning Hwy, Applecross WA 6153, Australia": {
+    "stationName": "Canning Bridge Station",
+    "distanceKm": 2.5,
+    "minutes": 6,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.0095198,115.8561092&destination=-32.0210901,115.8332792&travelmode=transit"
+  },
+  "Palace Arcade Northbridge_84 Beaufort St, Perth WA 6000, Australia": {
+    "stationName": "McIver Station",
+    "distanceKm": 0.4,
+    "minutes": 5,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9517613,115.866463&destination=-31.949548,115.8628324&travelmode=walking"
+  },
+  "Molly's Irish Pub Highgate_488 Beaufort St, Highgate WA 6003, Australia": {
+    "stationName": "Perth Station",
+    "distanceKm": 2.0,
+    "minutes": 8,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9511095,115.8599614&destination=-31.938969,115.869656&travelmode=transit"
+  },
+  "Molly's East Victoria Park_774 Albany Hwy, East Victoria Park WA 6101, Australia": {
+    "stationName": "Victoria Park Station",
+    "distanceKm": 1.8,
+    "minutes": 10,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9716,115.9022&destination=-31.9828972,115.9022367&travelmode=transit"
+  },
+  "Midland Tavern_23 Cale St, Midland WA 6056, Australia": {
+    "stationName": "Midland Station",
+    "distanceKm": 0.5,
+    "minutes": 7,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.8913982,116.0017733&destination=-31.8896026,116.0070113&travelmode=walking"
+  },
+  "Long Neck_T3 & T2A, 306 Riverside Dr, East Perth WA 6004, Australia": {
+    "stationName": "Claisebrook Station",
+    "distanceKm": 1.8,
+    "minutes": 23,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9494001,115.8725268&destination=-31.9645769,115.8783768&travelmode=walking"
+  },
+  "Karalee On Preston_Como Centre, 25 Preston St, Como WA 6152, Australia": {
+    "stationName": "Canning Bridge Station",
+    "distanceKm": 1.7,
+    "minutes": 8,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.0095198,115.8561092&destination=-31.9941529,115.859108&travelmode=transit"
+  },
+  "Kalamunda Hotel_43 Railway Rd, Kalamunda WA 6076, Australia": {
+    "stationName": "High Wycombe Station",
+    "distanceKm": 8.0,
+    "minutes": 15,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.95451,115.9925&destination=-31.9721106,116.0597669&travelmode=transit"
+  },
+  "Hotel Rottnest_Thompson Bay, 1 Bedford Ave, Rottnest Island WA 6161, Australia": {
+    "stationName": "Fremantle Station",
+    "distanceKm": 19.3,
+    "minutes": 65,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.0517959,115.7454766&destination=-31.9984523,115.5422463&travelmode=transit"
+  },
+  "Good Company_Shop MJ0265/200 Karrinyup Rd, Karrinyup WA 6018, Australia": {
+    "stationName": "Stirling Station",
+    "distanceKm": 3.2,
+    "minutes": 9,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.8941455,115.8045988&destination=-31.8769194,115.7789658&travelmode=transit"
+  },
+  "Fenway Subiaco_328 Barker Rd, Subiaco WA 6008, Australia": {
+    "stationName": "Subiaco Station",
+    "distanceKm": 0.5,
+    "minutes": 6,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9446882,115.8241006&destination=-31.9485392,115.8233613&travelmode=walking"
+  },
+  "El Grotto_Shop 5/148 The Esplanade, Scarborough WA 6019, Australia": {
+    "stationName": "Glendalough Station",
+    "distanceKm": 8.0,
+    "minutes": 15,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9146896,115.8231252&destination=-31.8935406,115.7567844&travelmode=transit"
+  },
+  "Durty Nelly's_397 Murray St, Perth WA 6000, Australia": {
+    "stationName": "Perth Underground Station",
+    "distanceKm": 0.5,
+    "minutes": 6,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.95146,115.8582&destination=-31.9516523,115.8537707&travelmode=walking"
+  },
+  "Cheeky Monkey Brewing Co_t217 Syren St, Rockingham WA 6168, Australia": {
+    "stationName": "Rockingham Station",
+    "distanceKm": 2.1,
+    "minutes": 6,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.28987,115.76134&destination=-32.2889081,115.7475278&travelmode=transit"
+  },
+  "Carrington's Bar and Grill_330 Carrington St, Hamilton Hill WA 6163, Australia": {
+    "stationName": "Fremantle Station",
+    "distanceKm": 4.1,
+    "minutes": 13,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.0517959,115.7454766&destination=-32.0756302,115.7802624&travelmode=transit"
+  },
+  "Carnaby's_1 Carnaby Close, East Fremantle WA 6158, Australia": {
+    "stationName": "Fremantle Station",
+    "distanceKm": 2.5,
+    "minutes": 8,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.0517959,115.7454766&destination=-32.0462051,115.7686139&travelmode=transit"
+  },
+  "Brewdog Perth_16 Gordon St, West Perth WA 6005, Australia": {
+    "stationName": "City West Station",
+    "distanceKm": 0.5,
+    "minutes": 7,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9445282,115.8448493&destination=-31.9483478,115.8473439&travelmode=walking"
+  },
+  "Bicton Tavern_1 Point Walter Rd, Bicton WA 6157, Australia": {
+    "stationName": "Fremantle Station",
+    "distanceKm": 4.2,
+    "minutes": 11,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.0517959,115.7454766&destination=-32.035721,115.7843777&travelmode=transit"
+  },
+  "Benny's_10-12 South Terrace, Fremantle WA 6160, Australia": {
+    "stationName": "Fremantle Station",
+    "distanceKm": 0.5,
+    "minutes": 6,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.0517959,115.7454766&destination=-32.0553057,115.7473412&travelmode=walking"
+  },
+  "Bad Apples_6/16 Riseley St, Ardross WA 6153, Australia": {
+    "stationName": "Canning Bridge Station",
+    "distanceKm": 2.4,
+    "minutes": 8,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.0095198,115.8561092&destination=-32.0210317,115.8348013&travelmode=transit"
+  },
+  "JB O’Reilly’s_99 Cambridge St, West Leederville WA 6007, Australia": {
+    "stationName": "West Leederville Station",
+    "distanceKm": 0.3,
+    "minutes": 4,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9425915,115.8331857&destination=-31.9409389,115.8354244&travelmode=walking"
+  },
+  "Bassendean Hotel_25 Old Perth Rd, Bassendean WA 6054, Australia": {
+    "stationName": "Bassendean Station",
+    "distanceKm": 0.1,
+    "minutes": 2,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9035773,115.9471616&destination=-31.9042913,115.9482318&travelmode=walking"
+  },
+  "Ye Olde Narrogin Inne_2 S Western Hwy, Armadale WA 6112, Australia": {
+    "stationName": "Armadale Station",
+    "distanceKm": 1.0,
+    "minutes": 13,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.1539387,116.0128997&destination=-32.1501383,116.0222116&travelmode=walking"
+  },
+  "Kalamunda Tap House_Corner Haynes Street and, Central Mall, Kalamunda WA 6076, Australia": {
+    "stationName": "High Wycombe Station",
+    "distanceKm": 7.9,
+    "minutes": 15,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.95451,115.9925&destination=-31.9713144,116.0585932&travelmode=transit"
+  },
+  "Dome Koombana Bay_1/21 Holman St, Bunbury WA 6229, Australia": {
+    "stationName": "Mandurah Station",
+    "distanceKm": 88.6,
+    "minutes": 110,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.5269148,115.7467314&destination=-33.318356,115.6395306&travelmode=transit"
+  },
+  "Burlington Hotel_51 Victoria St, Bunbury WA 6230, Australia": {
+    "stationName": "Mandurah Station",
+    "distanceKm": 89.0,
+    "minutes": 112,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.5269148,115.7467314&destination=-33.3219637,115.636609&travelmode=transit"
+  },
+  "Willi&#x27;s Bar @ The Royal_531 Wellington St, Perth WA 6000, Australia": {
+    "stationName": "Perth Station",
+    "distanceKm": 0.2,
+    "minutes": 3,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9511095,115.8599614&destination=-31.9512577,115.8577402&travelmode=walking"
+  },
+  "Whale and Ale_Key Largo Dr & Ocean Keys Boulevard, 34 Key Largo Dr, Clarkson WA 6030, Australia": {
+    "stationName": "Clarkson Station",
+    "distanceKm": 2.1,
+    "minutes": 7,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.6907461,115.7372241&destination=-31.6894828,115.7189245&travelmode=transit"
+  },
+  "The Rechabite_224 William St, Northbridge WA 6003, Australia": {
+    "stationName": "Perth Station",
+    "distanceKm": 0.3,
+    "minutes": 4,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9511095,115.8599614&destination=-31.9486218,115.8597889&travelmode=walking"
+  },
+  "The Left Bank_15 Riverside Rd, East Fremantle WA 6158, Australia": {
+    "stationName": "North Fremantle Station",
+    "distanceKm": 1.4,
+    "minutes": 18,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.029617,115.7518318&destination=-32.0393236,115.7615341&travelmode=walking"
+  },
+  "The Leederville Hotel_2/742 Newcastle St, Leederville WA 6007, Australia": {
+    "stationName": "Leederville Station",
+    "distanceKm": 0.2,
+    "minutes": 3,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9389833,115.8403093&destination=-31.9371443,115.8417325&travelmode=walking"
+  },
+  "The Globe_495/497 Wellington St, Perth WA 6000, Australia": {
+    "stationName": "Perth Station",
+    "distanceKm": 0.2,
+    "minutes": 2,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9511095,115.8599614&destination=-31.9514895,115.85823&travelmode=walking"
+  },
+  "The Foreshore Hangout Lounge_36 Foreshore Dr, Geraldton WA 6530, Australia": {
+    "stationName": "Yanchep Station",
+    "distanceKm": 322.6,
+    "minutes": 280,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.53229,115.64393&destination=-28.7727239,114.6092454&travelmode=transit"
+  },
+  "The Elford_639 Beaufort St, Mount Lawley WA 6050, Australia": {
+    "stationName": "Maylands Station",
+    "distanceKm": 2.1,
+    "minutes": 10,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9282855,115.8917529&destination=-31.9346731,115.8716537&travelmode=transit"
+  },
+  "The Coogee Boathouse_Unit 3/72 Pantheon Ave, North Coogee WA 6163, Australia": {
+    "stationName": "Cockburn Central Station",
+    "distanceKm": 9.5,
+    "minutes": 22,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.12528,115.85834&destination=-32.1019919,115.7618734&travelmode=transit"
+  },
+  "The Claremont Hotel_1 Bay View Terrace, Claremont WA 6010, Australia": {
+    "stationName": "Claremont Station",
+    "distanceKm": 0.1,
+    "minutes": 1,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9808235,115.7815604&destination=-31.9813906,115.7811011&travelmode=walking"
+  },
+  "The Bayswater Hotel_78-80 Railway Parade, Bayswater WA 6053, Australia": {
+    "stationName": "Bayswater Station",
+    "distanceKm": 0.1,
+    "minutes": 1,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9180956,115.9125424&destination=-31.9173488,115.9128899&travelmode=walking"
+  },
+  "Spinifex Hotel Derby_Spinifex Motel, 6 Clarendon St, Derby WA 6728, Australia": {
+    "stationName": "Yanchep Station",
+    "distanceKm": 1775.1,
+    "minutes": 1440,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.53229,115.64393&destination=-17.303672,123.626561&travelmode=transit"
+  },
+  "Spinifex Brewery Cable Beach_7 Sanctuary Rd, Cable Beach WA 6726, Australia": {
+    "stationName": "Yanchep Station",
+    "distanceKm": 1650.7,
+    "minutes": 1380,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.53229,115.64393&destination=-17.929943,122.2164594&travelmode=transit"
+  },
+  "Otherside of Nowhere_25 Harrogate St, West Leederville WA 6007, Australia": {
+    "stationName": "West Leederville Station",
+    "distanceKm": 0.8,
+    "minutes": 10,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9425915,115.8331857&destination=-31.9415309,115.8419606&travelmode=walking"
+  },
+  "Northbridge Brewing Co_44 Lake St, Northbridge WA 6003, Australia": {
+    "stationName": "Perth Station",
+    "distanceKm": 0.5,
+    "minutes": 7,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9511095,115.8599614&destination=-31.9474714,115.8573633&travelmode=walking"
+  },
+  "Henry M&#x27;s_27 Welwyn Ave, Manning WA 6152, Australia": {
+    "stationName": "Canning Bridge Station",
+    "distanceKm": 2.0,
+    "minutes": 8,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.0095198,115.8561092&destination=-32.0152945,115.8685577&travelmode=transit"
+  },
+  "Gage Roads Brew Co_Peter Hughes Dr, Fremantle WA 6160, Australia": {
+    "stationName": "Fremantle Station",
+    "distanceKm": 0.5,
+    "minutes": 7,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.0517959,115.7454766&destination=-32.0484672,115.7482102&travelmode=walking"
+  },
+  "Ciao Dandy_FC0208, Karrinyup Shopping Centre, 200 Karrinyup Rd, Karrinyup WA 6018, Australia": {
+    "stationName": "Stirling Station",
+    "distanceKm": 3.2,
+    "minutes": 9,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.8941455,115.8045988&destination=-31.8773477,115.7781686&travelmode=transit"
+  },
+  "Blasta Brewing_102 Goodwood Pde., Burswood WA 6100, Australia": {
+    "stationName": "Burswood Station",
+    "distanceKm": 0.1,
+    "minutes": 2,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9601858,115.8999583&destination=-31.9597169,115.9008894&travelmode=walking"
+  },
+  "Beach St Co_123 Beach St, Fremantle WA 6160, Australia": {
+    "stationName": "Fremantle Station",
+    "distanceKm": 1.4,
+    "minutes": 18,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.0517959,115.7454766&destination=-32.0417842,115.756788&travelmode=walking"
+  },
+  "Ball &amp; Chain_Marine Terrace &, 46-54 Collie St, Fremantle WA 6160, Australia": {
+    "stationName": "Fremantle Station",
+    "distanceKm": 0.6,
+    "minutes": 8,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.0517959,115.7454766&destination=-32.0561231,115.7470516&travelmode=walking"
+  },
+  "Baillie Hill_15 Hill View Terrace, East Victoria Park WA 6101, Australia": {
+    "stationName": "Oats Street Station",
+    "distanceKm": 1.1,
+    "minutes": 14,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.0870139,115.9160575&destination=-31.9922354,115.9092871&travelmode=walking"
+  },
+  "The Pipers Inn Rockingham_T215C, Syren St, Rockingham WA 6168, Australia": {
+    "stationName": "Rockingham Station",
+    "distanceKm": 2.1,
+    "minutes": 6,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.28987,115.76134&destination=-32.2886768,115.7482996&travelmode=transit"
+  },
+  "The Pipers Inn Mandurah_8/4-10 Old Coast Rd, Halls Head WA 6210, Australia": {
+    "stationName": "Mandurah Station",
+    "distanceKm": 3.4,
+    "minutes": 10,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.5269148,115.7467314&destination=-32.5363787,115.71409&travelmode=transit"
+  },
+  "Broken Hill Hotel_314 Albany Hwy, Victoria Park WA 6100, Australia": {
+    "stationName": "Victoria Park Station",
+    "distanceKm": 0.6,
+    "minutes": 8,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9716,115.9022&destination=-31.9725095,115.8963043&travelmode=walking"
+  },
+  "Sandy Cove Tavern_146 S Yunderup Rd, South Yunderup WA 6208, Australia": {
+    "stationName": "Mandurah Station",
+    "distanceKm": 14.8,
+    "minutes": 25,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.5269148,115.7467314&destination=-32.5851939,115.7943998&travelmode=transit"
+  },
+  "The Suburban Bar_Unit 4/1 Champion Dr, Bertram WA 6167, Australia": {
+    "stationName": "Kwinana Station",
+    "distanceKm": 1.4,
+    "minutes": 18,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.2349423,115.8426469&destination=-32.2472191,115.8467514&travelmode=walking"
+  },
+  "Boab Tavern_107 Dundas Road, High Wycombe, Perth,WA, 6057": {
+    "stationName": "High Wycombe Station",
+    "distanceKm": 1.6,
+    "minutes": 20,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.95451,115.9925&destination=-31.9401453,115.9913347&travelmode=walking"
+  },
+  "Live Lounge_Wanneroo Central, shop 47/950 Wanneroo Rd, Wanneroo WA 6065": {
+    "stationName": "Edgewater Station",
+    "distanceKm": 3.2,
+    "minutes": 11,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.7719768,115.7786523&destination=-31.7529635,115.8050939&travelmode=transit"
+  },
+  "Mojo's Bar_237 Queen Victoria St, North Fremantle WA 6159": {
+    "stationName": "North Fremantle Station",
+    "distanceKm": 0.7,
+    "minutes": 9,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.029617,115.7518318&destination=-32.0354076,115.7532026&travelmode=walking"
+  },
+  "The Cornerstone Tavern_Kingsbridge Blvd &amp; Wadhurst Rd, Butler WA 6036": {
+    "stationName": "Butler Station",
+    "distanceKm": 1.5,
+    "minutes": 19,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.6354,115.7001&destination=-31.649049,115.6982852&travelmode=walking"
+  },
+  "The Pav Restaurant and Bar_Peter Anderson Dr, Australind WA 6233": {
+    "stationName": "Mandurah Station",
+    "distanceKm": 82.5,
+    "minutes": 105,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.5269148,115.7467314&destination=-33.2690944,115.740405&travelmode=transit"
+  },
+  "The Old Synagogue Fremantle_92 South Terrace Fremantle WA 6160": {
+    "stationName": "Fremantle Station",
+    "distanceKm": 0.7,
+    "minutes": 9,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.0517959,115.7454766&destination=-32.0568426,115.7497944&travelmode=walking"
+  },
+  "The Beaufort_521-525 Beaufort Street Highgate WA 6003": {
+    "stationName": "Perth Station",
+    "distanceKm": 1.8,
+    "minutes": 7,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9511095,115.8599614&destination=-31.9379226,115.869588&travelmode=transit"
+  },
+  "Stories_Yagan Square, 376-420 Wellington Street, Perth WA 6000": {
+    "stationName": "Perth Underground Station",
+    "distanceKm": 0.1,
+    "minutes": 1,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.95146,115.8582&destination=-31.9507423,115.8588053&travelmode=walking"
+  },
+  "The Station South Perth_1 Mends Street, South Perth, WA 6151": {
+    "stationName": "Elizabeth Quay Station",
+    "distanceKm": 2.4,
+    "minutes": 7,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9568537,115.8553249&destination=-31.9737182,115.851297&travelmode=transit"
+  },
+  "Newman Hotel_1401 Newman Drive, Newman WA": {
+    "stationName": "Yanchep Station",
+    "distanceKm": 994.1,
+    "minutes": 720,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.53229,115.64393&destination=-23.357515,119.728276&travelmode=transit"
+  },
+  "The Brighton Mandurah_10/12 Mandurah Terrace, Mandurah WA 6210": {
+    "stationName": "Mandurah Station",
+    "distanceKm": 2.8,
+    "minutes": 8,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.5269148,115.7467314&destination=-32.5339417,115.7191504&travelmode=transit"
+  },
+  "The Lucky Shag Waterfront Bar_1 Barrack Square, Perth WA 6000": {
+    "stationName": "Elizabeth Quay Station",
+    "distanceKm": 0.5,
+    "minutes": 6,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9568537,115.8553249&destination=-31.9596948,115.8587267&travelmode=walking"
+  },
+  "The Sporting Globe Floreat_Floreat Forum, Shop 94 Howtree Pl, Floreat 6014": {
+    "stationName": "Subiaco Station",
+    "distanceKm": 3.0,
+    "minutes": 8,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9446882,115.8241006&destination=-31.9380276,115.7928916&travelmode=transit"
+  },
+  "Whitfords Brewing Co_Dining &amp; Entertainment Hub Westfield Whitford City, Hillarys WA 6025": {
+    "stationName": "Whitfords Station",
+    "distanceKm": 3.1,
+    "minutes": 7,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.799407,115.7823322&destination=-31.7967214,115.7496595&travelmode=transit"
+  },
+  "Social House_5/227 Main St, Osborne Park WA 6017": {
+    "stationName": "Glendalough Station",
+    "distanceKm": 2.2,
+    "minutes": 10,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9146896,115.8231252&destination=-31.8954643,115.8278569&travelmode=transit"
+  },
+  "Highway Hotel_Forrest Ave &amp;, Spencer St, Bunbury WA 6230": {
+    "stationName": "Mandurah Station",
+    "distanceKm": 90.6,
+    "minutes": 115,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.5269148,115.7467314&destination=-33.3364868,115.6403616&travelmode=transit"
+  },
+  "Peel Alehouse_8 Guava Way, Halls Head WA 6210": {
+    "stationName": "Mandurah Station",
+    "distanceKm": 5.2,
+    "minutes": 14,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.5269148,115.7467314&destination=-32.5502978,115.7019489&travelmode=transit"
+  },
+  "Bark Subiaco_502 Hay St, Subiaco WA 6008": {
+    "stationName": "Subiaco Station",
+    "distanceKm": 0.3,
+    "minutes": 4,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9446882,115.8241006&destination=-31.9468453,115.8219727&travelmode=walking"
+  },
+  "Burger Baby_2 Andrews Way, Margaret River": {
+    "stationName": "Mandurah Station",
+    "distanceKm": 172.2,
+    "minutes": 210,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.5269148,115.7467314&destination=-33.9735081,115.0850147&travelmode=transit"
+  },
+  "Tower Hotel Kalgoorlie_Crn Maritana &amp; Bourke Streets, Kalgoorlie": {
+    "stationName": "Midland Station",
+    "distanceKm": 643.0,
+    "minutes": 416,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.8913982,116.0017733&destination=-30.7444198,121.4604811&travelmode=transit"
+  },
+  "Fat Boyz Small Bar_1303 Hay Street, West Perth": {
+    "stationName": "City West Station",
+    "distanceKm": 0.6,
+    "minutes": 7,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9445282,115.8448493&destination=-31.9480541,115.839201&travelmode=walking"
+  },
+  "Phat Brew Club_City West Complex, 102 Railway St, West Perth": {
+    "stationName": "City West Station",
+    "distanceKm": 0.2,
+    "minutes": 3,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9445282,115.8448493&destination=-31.9426354,115.8437197&travelmode=walking"
+  },
+  "Eaton Tavern_1 Albatross Cres, Eaton": {
+    "stationName": "Mandurah Station",
+    "distanceKm": 88.2,
+    "minutes": 108,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.5269148,115.7467314&destination=-33.3199884,115.7151695&travelmode=transit"
+  },
+  "APIWA Club Rooms_Rear Unit 6/1270-1274 Albany Hwy, Cannington": {
+    "stationName": "Cannington Station",
+    "distanceKm": 1.6,
+    "minutes": 20,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.0135438,115.9449597&destination=-32.01275,115.92819&travelmode=walking"
+  },
+  "The Sporting Globe Mandurah_Mandurah Forum  330 Pinjarra Rd Mandurah 6210": {
+    "stationName": "Mandurah Station",
+    "distanceKm": 1.2,
+    "minutes": 15,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.5269148,115.7467314&destination=-32.5355296,115.7444188&travelmode=walking"
+  },
+  "The Sporting Globe Rockingham_Rockingham Shopping Centre  Syren Street ROCKINGHAM 6168": {
+    "stationName": "Rockingham Station",
+    "distanceKm": 2.1,
+    "minutes": 6,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.28987,115.76134&destination=-32.2885972,115.7476279&travelmode=transit"
+  },
+  "Cobblers Tavern_4 Olive Rd Falcon 6210": {
+    "stationName": "Mandurah Station",
+    "distanceKm": 10.2,
+    "minutes": 18,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.5269148,115.7467314&destination=-32.5825106,115.6616277&travelmode=transit"
+  },
+  "Hanks Bar & Bistro_Lot 504 Ennis Avenue & Granges Drive Cooloongup 6168": {
+    "stationName": "Rockingham Station",
+    "distanceKm": 1.2,
+    "minutes": 15,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.28987,115.76134&destination=-32.2960086,115.7635465&travelmode=walking"
+  },
+  "Port Kennedy RSL_27 Paxton Way Port Kennedy 6172": {
+    "stationName": "Warnbro Station",
+    "distanceKm": 4.8,
+    "minutes": 11,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.3265639,115.7679697&destination=-32.3679228,115.76072&travelmode=transit"
+  },
+  "The Kwinana Local_1 Chisham Avenue Kwinana 6167": {
+    "stationName": "Kwinana Station",
+    "distanceKm": 3.2,
+    "minutes": 8,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.2349423,115.8426469&destination=-32.24374,115.81467&travelmode=transit"
+  },
+  "The Lakelands_Corner Barrine Road and Seppings Parade Lakelands 6180": {
+    "stationName": "Lakelands Station",
+    "distanceKm": 1.0,
+    "minutes": 12,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.47369,115.77068&destination=-32.4703491,115.7607558&travelmode=walking"
+  },
+  "Empire Bar_220 Great Eastern Hwy, Lathlain WA 6100": {
+    "stationName": "Burswood Station",
+    "distanceKm": 0.4,
+    "minutes": 5,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9601858,115.8999583&destination=-31.9611723,115.9025417&travelmode=walking"
+  },
+  "Cottesloe Beach Hotel_104 Marine Parade, Cottesloe WA 6011": {
+    "stationName": "Cottesloe Station",
+    "distanceKm": 0.9,
+    "minutes": 11,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.99702,115.76092&destination=-31.9945678,115.7525741&travelmode=walking"
+  },
+  "The Hampden Hotel_156 Hampden Rd, Nedlands WA 6009": {
+    "stationName": "Shenton Park Station",
+    "distanceKm": 1.6,
+    "minutes": 8,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9596,115.80547&destination=-31.9719438,115.8136796&travelmode=transit"
+  },
+  "The Carine_493 Beach Rd, Duncraig WA 6023": {
+    "stationName": "Warwick Station",
+    "distanceKm": 1.2,
+    "minutes": 15,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.8447914,115.7964284&destination=-31.8452385,115.7874917&travelmode=walking"
+  },
+  "Paddington Ale House_141 Scarborough Beach Rd, Mount Hawthorn WA 6016": {
+    "stationName": "Glendalough Station",
+    "distanceKm": 1.8,
+    "minutes": 7,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9146896,115.8231252&destination=-31.922115,115.8397047&travelmode=transit"
+  },
+  "The Galway Hooker_Tenancy 3/148 The Esplanade, Scarborough WA 6019": {
+    "stationName": "Glendalough Station",
+    "distanceKm": 8.0,
+    "minutes": 15,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9146896,115.8231252&destination=-31.8936848,115.7570573&travelmode=transit"
+  },
+  "Otherside Brewing Co_Blaikie Street, Myaree, WA 6154": {
+    "stationName": "Bull Creek Station",
+    "distanceKm": 3.8,
+    "minutes": 11,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.0470374,115.8541449&destination=-32.0421758,115.8204295&travelmode=transit"
+  },
+  "The Kardinya Tavern_17 South St, Kardinya WA 6163": {
+    "stationName": "Bull Creek Station",
+    "distanceKm": 4.1,
+    "minutes": 10,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.0470374,115.8541449&destination=-32.0680939,115.8182495&travelmode=transit"
+  },
+  "Varsity Northbridge_94 Aberdeen St, Northbridge WA 6003": {
+    "stationName": "Perth Station",
+    "distanceKm": 0.6,
+    "minutes": 8,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9511095,115.8599614&destination=-31.946219,115.8587751&travelmode=walking"
+  },
+  "8 Knots_110 Riverside Rd, East Fremantle WA 6158": {
+    "stationName": "Fremantle Station",
+    "distanceKm": 5.4,
+    "minutes": 34,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.0517959,115.7454766&destination=-32.0261732,115.7666724&travelmode=transit"
+  },
+  "The Court_50 Beaufort St, Perth WA 6000": {
+    "stationName": "McIver Station",
+    "distanceKm": 0.4,
+    "minutes": 5,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9517613,115.866463&destination=-31.9502506,115.8624696&travelmode=walking"
+  },
+  "Wannabrew Bar & Grill_Shop 47 Wanneroo Central, 950 Wanneroo Rd, Wanneroo WA 6065": {
+    "stationName": "Edgewater Station",
+    "distanceKm": 3.2,
+    "minutes": 11,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.7719768,115.7786523&destination=-31.7529635,115.8050939&travelmode=transit"
+  },
+  "The Bayswater Hotel_78-80 Railway Parade, Bayswater WA 6053": {
+    "stationName": "Bayswater Station",
+    "distanceKm": 0.1,
+    "minutes": 1,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9180956,115.9125424&destination=-31.9173488,115.9128899&travelmode=walking"
+  },
+  "The Pipers Inn - Currambine_1244 Marmion Ave, Currambine WA 6028": {
+    "stationName": "Currambine Station",
+    "distanceKm": 2.1,
+    "minutes": 8,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.7249643,115.7505793&destination=-31.7410971,115.7393979&travelmode=transit"
+  },
+  "The Morris_2 Morris Rd, Innaloo WA 6018": {
+    "stationName": "Stirling Station",
+    "distanceKm": 1.2,
+    "minutes": 15,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.8941455,115.8045988&destination=-31.8892932,115.7930158&travelmode=walking"
+  },
+  "The Thornlie_336 Spencer Rd, Thornlie WA 6108": {
+    "stationName": "Thornlie Station",
+    "distanceKm": 1.5,
+    "minutes": 18,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.0472457,115.9523293&destination=-32.0572187,115.9640354&travelmode=walking"
+  },
+  "7 Mile Bar & Bistro_501 Wanneroo Rd, Balcatta WA 6021": {
+    "stationName": "Stirling Station",
+    "distanceKm": 4.1,
+    "minutes": 13,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.8941455,115.8045988&destination=-31.8618284,115.8264062&travelmode=transit"
+  },
+  "Kalamunda Tap House_Corner Haynes Street and, Central Mall, Kalamunda WA": {
+    "stationName": "High Wycombe Station",
+    "distanceKm": 7.9,
+    "minutes": 15,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.95451,115.9925&destination=-31.9713144,116.0585932&travelmode=transit"
+  },
+  "The Russell Inn_137A Russell St, Morley WA 6062": {
+    "stationName": "Morley Station",
+    "distanceKm": 1.2,
+    "minutes": 15,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.89598,115.91994&destination=-31.9016905,115.8999067&travelmode=walking"
+  },
+  "The Dunsborough Tavern_2 Dunsborough Pl, Dunsborough WA 6281": {
+    "stationName": "Mandurah Station",
+    "distanceKm": 135.1,
+    "minutes": 165,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.5269148,115.7467314&destination=-33.6169461,115.1067479&travelmode=transit"
+  },
+  "The White Star Hotel_72 Stirling Terrace, Albany WA 6330": {
+    "stationName": "Mandurah Station",
+    "distanceKm": 341.1,
+    "minutes": 300,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.5269148,115.7467314&destination=-35.0268823,117.8860265&travelmode=transit"
+  },
+  "Kingsley Tavern_90 Kingsley Dr, Kingsley WA 6026": {
+    "stationName": "Greenwood Station",
+    "distanceKm": 1.4,
+    "minutes": 17,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.8185682,115.7832307&destination=-31.807497,115.7892363&travelmode=walking"
+  },
+  "The B Bar Rockingham_EX008, 20 Settlers Ave, Baldivis, WA, 6171": {
+    "stationName": "Warnbro Station",
+    "distanceKm": 5.0,
+    "minutes": 7,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.3265639,115.7679697&destination=-32.334182,115.8150296&travelmode=transit"
+  },
+  "Leederville Hotel_742 Newcastle St, Leederville WA 6007": {
+    "stationName": "Leederville Station",
+    "distanceKm": 0.2,
+    "minutes": 3,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9389833,115.8403093&destination=-31.9371443,115.8417325&travelmode=walking"
+  },
+  "Johnny Fox'S_205 James St, Northbridge WA 6003": {
+    "stationName": "Perth Station",
+    "distanceKm": 0.6,
+    "minutes": 8,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9511095,115.8599614&destination=-31.9473077,115.8550551&travelmode=walking"
+  },
+  "Heights Bar and Bistro_2/200 Mirrabooka Ave, Alexander Heights WA 6064, Australia": {
+    "stationName": "Ballajura Station",
+    "distanceKm": 3.7,
+    "minutes": 12,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.84978,115.92254&destination=-31.8302689,115.8543429&travelmode=transit"
+  },
+  "The Brisbane Hotel (Perth)_292 Beaufort St, Perth WA 6003, Australia": {
+    "stationName": "Perth Station",
+    "distanceKm": 1.2,
+    "minutes": 6,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9511095,115.8599614&destination=-31.943939,115.8663525&travelmode=transit"
+  },
+  "The Seasonal Brewing Co._175 Guildford Rd, Maylands WA 6051, Australia": {
+    "stationName": "Maylands Station",
+    "distanceKm": 0.3,
+    "minutes": 4,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9282855,115.8917529&destination=-31.9302767,115.8926224&travelmode=walking"
+  },
+  "The Inglewood Hotel_803 Beaufort St, Perth WA 6052, Australia": {
+    "stationName": "Maylands Station",
+    "distanceKm": 1.3,
+    "minutes": 16,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9282855,115.8917529&destination=-31.9251727,115.8809225&travelmode=walking"
+  },
+  "The Federal Hotel_23 William St, Fremantle WA 6160, Australia": {
+    "stationName": "Fremantle Station",
+    "distanceKm": 0.4,
+    "minutes": 5,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.0517959,115.7454766&destination=-32.0548756,115.7479618&travelmode=walking"
+  },
+  "Public House_263 Adelaide Terrace, Perth WA, Australia": {
+    "stationName": "Perth Station",
+    "distanceKm": 1.0,
+    "minutes": 8,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9511095,115.8599614&destination=-31.9583369,115.8653924&travelmode=transit"
+  },
+  "Indian Ocean Hotel_23 Hastings St, Scarborough WA 6019, Australia": {
+    "stationName": "Glendalough Station",
+    "distanceKm": 7.8,
+    "minutes": 16,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9146896,115.8231252&destination=-31.896489,115.7595011&travelmode=transit"
+  },
+  "The Balmoral Hotel_901 Albany Hwy, Victoria Park WA 6100": {
+    "stationName": "Victoria Park Station",
+    "distanceKm": 2.1,
+    "minutes": 11,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9716,115.9022&destination=-31.9872101,115.904436&travelmode=transit"
+  },
+  "Bentley Hotel_1120-1124 Albany Hwy, Bentley WA 6102": {
+    "stationName": "Cannington Station",
+    "distanceKm": 2.8,
+    "minutes": 11,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.0135438,115.9449597&destination=-31.999895,115.9181597&travelmode=transit"
+  },
+  "Haynes Bar and Grill_Armadale Road &amp; Eighth Road, Armadale, WA 6112, Australia": {
+    "stationName": "Armadale Station",
+    "distanceKm": 2.8,
+    "minutes": 8,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.1539387,116.0128997&destination=-32.1470551,115.9840223&travelmode=transit"
+  },
+  "Newpark Bar and Bistro_61 Templeton Cres, Girrawheen WA 6064, Australia": {
+    "stationName": "Warwick Station",
+    "distanceKm": 4.5,
+    "minutes": 12,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.8447914,115.7964284&destination=-31.8368835,115.8302141&travelmode=transit"
+  },
+  "The Quarie Bar &amp; Brasserie_2 Macquarie Blvd, Hammond Park WA 6164, Australia": {
+    "stationName": "Cockburn Central Station",
+    "distanceKm": 4.2,
+    "minutes": 12,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.12528,115.85834&destination=-32.1603201,115.846009&travelmode=transit"
+  },
+  "Clancys Fish Pub (Canning Bridge)_903 Canning Hwy, Applecross WA 6153": {
+    "stationName": "Canning Bridge Station",
+    "distanceKm": 0.8,
+    "minutes": 10,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.0095198,115.8561092&destination=-32.0133199,115.84837&travelmode=walking"
+  },
+  "Vale Bar and Brasserie_281 Beeliar Drive, Yangebup WA 6164, Australia": {
+    "stationName": "Cockburn Central Station",
+    "distanceKm": 5.8,
+    "minutes": 12,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.12528,115.85834&destination=-32.1269819,115.7969116&travelmode=transit"
+  },
+  "Hyde Park Hotel_331 Bulwer St &, Fitzgerald St, West Perth WA 6005": {
+    "stationName": "Perth Station",
+    "distanceKm": 1.6,
+    "minutes": 8,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9511095,115.8599614&destination=-31.9382142,115.8569597&travelmode=transit"
+  },
+  "7th Ave Bar &amp; Restaurant_74 Helena St, Midland WA 6056": {
+    "stationName": "Midland Station",
+    "distanceKm": 0.4,
+    "minutes": 5,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.8913982,116.0017733&destination=-31.8884991,116.0030825&travelmode=walking"
+  },
+  "Varsity Bar (Joondalup)_20 Reid Promenade, Joondalup WA 6027, Australia": {
+    "stationName": "Joondalup Station",
+    "distanceKm": 0.4,
+    "minutes": 5,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.7451588,115.7674679&destination=-31.741852,115.7689176&travelmode=walking"
+  },
+  "The Subiaco Hotel_226 Hay Street, Subiaco WA, Australia": {
+    "stationName": "Subiaco Station",
+    "distanceKm": 0.7,
+    "minutes": 8,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9446882,115.8241006&destination=-31.9469931,115.831585&travelmode=walking"
+  },
+  "Rose Hotel_27 Wellington Street, Bunbury WA, Australia": {
+    "stationName": "Mandurah Station",
+    "distanceKm": 89.3,
+    "minutes": 113,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.5269148,115.7467314&destination=-33.3244971,115.637272&travelmode=transit"
+  },
+  "Mt Henry Tavern_27 Manning Rd, Perth WA 6152": {
+    "stationName": "Canning Bridge Station",
+    "distanceKm": 0.7,
+    "minutes": 9,
+    "modeLabel": "walking",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.0095198,115.8561092&destination=-32.0144859,115.8597263&travelmode=walking"
+  },
+  "Murphy's Irish Pub_43 Mandurah Terrace, Mandurah WA 6210": {
+    "stationName": "Mandurah Station",
+    "distanceKm": 2.7,
+    "minutes": 8,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.5269148,115.7467314&destination=-32.5323676,115.7193663&travelmode=transit"
+  },
+  "Civic Hotel_981 Beaufort St, Inglewood WA 6052": {
+    "stationName": "Maylands Station",
+    "distanceKm": 1.8,
+    "minutes": 10,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9282855,115.8917529&destination=-31.9171918,115.8906455&travelmode=transit"
+  },
+  "Sandbar_1 Scarborough Beach Rd, Scarborough WA 6019": {
+    "stationName": "Glendalough Station",
+    "distanceKm": 8.0,
+    "minutes": 15,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9146896,115.8231252&destination=-31.8946837,115.75665&travelmode=transit"
+  },
+  "Varsity Bar (Nedlands)_Broadway Fair Shopping Centre, 88 Broadway, Crawley WA 6009": {
+    "stationName": "Elizabeth Quay Station",
+    "distanceKm": 4.5,
+    "minutes": 12,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-31.9568537,115.8553249&destination=-31.9840966,115.8147429&travelmode=transit"
+  },
+  "Varsity Bar (Waterford)_55/230 Manning Rd, Karawara WA 6152": {
+    "stationName": "Canning Bridge Station",
+    "distanceKm": 2.9,
+    "minutes": 8,
+    "modeLabel": "bus",
+    "mapsLink": "https://www.google.com/maps/dir/?api=1&origin=-32.0095198,115.8561092&destination=-32.011588,115.886449&travelmode=transit"
+  }
+}

@@ -62,22 +62,6 @@
   border-color: var(--text, #453018);
 }
 
-.commute-controls {
-  margin-top: 0.25rem;
-}
-
-.commute-toggle {
-  display: inline-flex;
-  gap: 0.5rem;
-  align-items: center;
-  font-family: var(--font-body, 'Inconsolata', monospace);
-  font-size: 0.9rem;
-  color: var(--text, #453018);
-}
-
-.commute-toggle input {
-  margin: 0;
-}
 
 .commute-legend {
   display: flex;
