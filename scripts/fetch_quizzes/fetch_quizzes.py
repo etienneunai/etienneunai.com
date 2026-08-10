@@ -137,9 +137,9 @@ def main():
             print(f" - {f['title']}: {f['address']}")
             
     # Ensure data directory exists
-    os.makedirs('../../quizzes/data', exist_ok=True)
+    output_path = '../../site/quizzes/data/quizzes.json'
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
     
-    output_path = '../../quizzes/data/quizzes.json'
     with open(output_path, 'w') as f:
         json.dump(quizzes, f, indent=2)
     print(f"Saved to {output_path}")
