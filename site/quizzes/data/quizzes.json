@@ -918,6 +918,15 @@
     "lon": 115.92819
   },
   {
+    "title": "The Sporting Globe Mandurah",
+    "day": "Wednesday",
+    "address": "Mandurah Forum  330 Pinjarra Rd Mandurah 6210",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/the-sporting-globe-mandurah/",
+    "lat": -32.5355296,
+    "lon": 115.7444188
+  },
+  {
     "title": "The Sporting Globe Rockingham",
     "day": "Wednesday",
     "address": "Rockingham Shopping Centre  Syren Street ROCKINGHAM 6168",
@@ -970,15 +979,6 @@
     "link": "https://quizfinder.com.au/event/the-lakelands/",
     "lat": -32.4703491,
     "lon": 115.7607558
-  },
-  {
-    "title": "The Sporting Globe Mandurah",
-    "day": "Wednesday",
-    "address": "Mandurah Forum  330 Pinjarra Rd Mandurah 6210",
-    "time": "7:00pm",
-    "link": "https://quizfinder.com.au/event/the-sporting-globe-mandurah/",
-    "lat": -32.5355296,
-    "lon": 115.7444188
   },
   {
     "title": "Empire Bar",
@@ -1359,15 +1359,6 @@
     "lon": 115.7689176
   },
   {
-    "title": "Rose Hotel",
-    "day": "Wednesday",
-    "address": "27 Wellington Street, Bunbury WA, Australia",
-    "time": "7pm",
-    "link": "https://quizfinder.com.au/event/rose-hotel-2/",
-    "lat": -33.32449709999999,
-    "lon": 115.637272
-  },
-  {
     "title": "The Subiaco Hotel",
     "day": "Wednesday",
     "address": "226 Hay Street, Subiaco WA, Australia",
@@ -1375,6 +1366,15 @@
     "link": "https://quizfinder.com.au/event/the-subiaco-hotel/",
     "lat": -31.9469931,
     "lon": 115.831585
+  },
+  {
+    "title": "Rose Hotel",
+    "day": "Wednesday",
+    "address": "27 Wellington Street, Bunbury WA, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/rose-hotel-2/",
+    "lat": -33.32449709999999,
+    "lon": 115.637272
   },
   {
     "title": "Mt Henry Tavern",
