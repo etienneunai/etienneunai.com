@@ -18,44 +18,80 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let allQuizzes = [];
     let currentMarkers = [];
-    
-    // Create custom marker icon
-    const customIcon = L.divIcon({
-        className: 'custom-marker',
-        iconSize: [14, 14],
-        iconAnchor: [7, 7],
-        popupAnchor: [0, -7]
-    });
 
     const statusPanel = document.getElementById('status-panel');
     const statusText = document.getElementById('status-text');
 
-    // Fetch the quiz data
-    fetch('data/quizzes.json')
-        .then(response => {
-            if (!response.ok) {
-                throw new Error('Network response was not ok');
-            }
+    // Fetch both quizzes.json and commute_matrix.json simultaneously
+    Promise.all([
+        fetch('data/quizzes.json').then(response => {
+            if (!response.ok) throw new Error('Network response for quizzes was not ok');
+            return response.json();
+        }),
+        fetch('data/commute_matrix.json').then(response => {
+            if (!response.ok) throw new Error('Network response for commute matrix was not ok');
             return response.json();
         })
-        .then(data => {
-            // Filter out items that failed geocoding
-            allQuizzes = data.filter(q => q.lat !== null && q.lon !== null);
-            statusPanel.classList.remove('hidden');
-            statusText.textContent = `Loaded ${allQuizzes.length} quizzes.`;
-            
-            // Hide status after 3 seconds
-            setTimeout(() => {
-                statusPanel.classList.add('hidden');
-            }, 3000);
-            
-            renderMarkers('All');
-        })
-        .catch(error => {
-            console.error('Error loading quizzes:', error);
-            statusPanel.classList.remove('hidden');
-            statusText.textContent = 'Failed to load quiz data.';
+    ])
+    .then(([quizzesData, commuteMatrixData]) => {
+        // Filter out items that failed geocoding
+        allQuizzes = quizzesData.filter(q => q.lat !== null && q.lon !== null);
+        
+        // Merge commute data into quizzes using the unique key
+        allQuizzes.forEach(quiz => {
+            const key = `${quiz.title}_${quiz.address}`;
+            quiz.commute = commuteMatrixData[key] || null;
         });
+
+        statusPanel.classList.remove('hidden');
+        statusText.textContent = `Loaded ${allQuizzes.length} quizzes.`;
+        
+        // Hide status after 3 seconds
+        setTimeout(() => {
+            statusPanel.classList.add('hidden');
+        }, 3000);
+        
+        renderMarkers('All');
+    })
+    .catch(error => {
+        console.error('Error loading data:', error);
+        statusPanel.classList.remove('hidden');
+        statusText.textContent = 'Failed to load quiz data.';
+    });
+
+    function getCommuteDistanceClass(commuteInfo) {
+        if (!commuteInfo || typeof commuteInfo.minutes === 'undefined') {
+            return '';
+        }
+        if (commuteInfo.minutes < 15) {
+            return 'commute-near';
+        }
+        if (commuteInfo.minutes <= 30) {
+            return 'commute-medium';
+        }
+        return 'commute-far';
+    }
+
+    function buildMarkerIcon(commuteInfo) {
+        const markerClass = getCommuteDistanceClass(commuteInfo);
+        return L.divIcon({
+            className: `custom-marker ${markerClass}`.trim(),
+            iconSize: [14, 14],
+            iconAnchor: [7, 7],
+            popupAnchor: [0, -7]
+        });
+    }
+
+    function buildCommuteHtml(commuteInfo) {
+        if (!commuteInfo) {
+            return '<p><strong>Commute:</strong> Unavailable</p>';
+        }
+
+        return `
+            <p><strong>Commute:</strong> ${commuteInfo.minutes} minutes from ${commuteInfo.stationName} via ${commuteInfo.modeLabel}</p>
+            <a href="${commuteInfo.mapsLink}" target="_blank" rel="noopener noreferrer">View route on Maps</a>
+        `;
+    }
 
     // Render markers based on selected day
     function renderMarkers(dayFilter) {
@@ -68,7 +104,7 @@ document.addEventListener('DOMContentLoaded', () => {
             : allQuizzes.filter(q => q.day === dayFilter);
 
         filteredQuizzes.forEach(quiz => {
-            const marker = L.marker([quiz.lat, quiz.lon], { icon: customIcon }).addTo(map);
+            const marker = L.marker([quiz.lat, quiz.lon], { icon: buildMarkerIcon(quiz.commute) }).addTo(map);
             
             const popupContent = `
                 <div class="popup-inner">
@@ -76,6 +112,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <p><strong>Day:</strong> ${quiz.day}</p>
                     <p><strong>Time:</strong> ${quiz.time || 'N/A'}</p>
                     <p><strong>Address:</strong> ${quiz.address}</p>
+                    ${buildCommuteHtml(quiz.commute)}
                     <a href="${quiz.link}" target="_blank" rel="noopener noreferrer">View on QuizFinder</a>
                 </div>
             `;

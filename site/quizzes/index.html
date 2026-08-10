@@ -33,8 +33,7 @@
   <main class="container">
     <section class="projects" aria-labelledby="map-heading">
       <h2 class="section-title" id="map-heading">QuizMap</h2>
-      <p>Map of WA quiz nights, with data sourced from <a href="https://quizfinder.com.au/" target="_blank" rel="noopener noreferrer">QuizFinder.com.au</a></p>
-      
+      <p>Map of WA quiz nights, with data sourced from <a href="https://quizfinder.com.au/" target="_blank" rel="noopener noreferrer">QuizFinder.com.au</a><br>Venues are colour-coded on their distance from the nearest station.</p>
       <nav class="filter-controls" id="filter-nav">
         <button class="filter-btn active" data-day="All">All</button>
         <button class="filter-btn" data-day="Monday">Monday</button>
@@ -45,6 +44,12 @@
         <button class="filter-btn" data-day="Saturday">Saturday</button>
         <button class="filter-btn" data-day="Sunday">Sunday</button>
       </nav>
+
+      <div id="commute-legend" class="commute-legend" aria-live="polite">
+        <span><i class="legend-dot commute-near"></i>Near (< 15 mins)</span>
+        <span><i class="legend-dot commute-medium"></i>Medium (15 - 30 mins)</span>
+        <span><i class="legend-dot commute-far"></i>Far (&gt; 30 mins)</span>
+      </div>
 
       <div id="status-panel" class="status-panel hidden">
         <span id="status-text">Loading quizzes...</span>

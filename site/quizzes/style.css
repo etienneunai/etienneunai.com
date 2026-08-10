@@ -62,6 +62,30 @@
   border-color: var(--text, #453018);
 }
 
+
+.commute-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 0.5rem;
+  font-family: var(--font-body, 'Inconsolata', monospace);
+  font-size: 0.8rem;
+  color: var(--text, #453018);
+}
+
+.commute-legend span {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.legend-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border: 1px solid var(--bg, #FAFAEA);
+}
+
 /* Status Panel */
 .status-panel {
   margin-top: 10px;
@@ -130,4 +154,19 @@
   border-radius: 50%;
   border: 2px solid var(--bg, #FAFAEA);
   box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+}
+
+.custom-marker.commute-near,
+.legend-dot.commute-near {
+  background: #2a9d8f;
+}
+
+.custom-marker.commute-medium,
+.legend-dot.commute-medium {
+  background: #e9c46a;
+}
+
+.custom-marker.commute-far,
+.legend-dot.commute-far {
+  background: #e76f51;
 }
