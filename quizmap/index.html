@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>QuizMap - Western Australia</title>
+  <meta name="description" content="Discover quiz nights in Western Australia with our interactive map.">
+  
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  
+  <div id="ui-layer">
+    <header class="glass-panel">
+      <h1>QuizMap</h1>
+      <p>Western Australia</p>
+    </header>
+    
+    <nav class="filter-controls glass-panel" id="filter-nav">
+      <button class="filter-btn active" data-day="All">All Days</button>
+      <button class="filter-btn" data-day="Monday">Monday</button>
+      <button class="filter-btn" data-day="Tuesday">Tuesday</button>
+      <button class="filter-btn" data-day="Wednesday">Wednesday</button>
+      <button class="filter-btn" data-day="Thursday">Thursday</button>
+      <button class="filter-btn" data-day="Friday">Friday</button>
+      <button class="filter-btn" data-day="Saturday">Saturday</button>
+      <button class="filter-btn" data-day="Sunday">Sunday</button>
+    </nav>
+
+    <div class="status-panel glass-panel hidden" id="status-panel">
+      <span id="status-text">Loading quizzes...</span>
+    </div>
+  </div>
+
+  <div id="map"></div>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="map.js"></script>
+</body>
+</html>

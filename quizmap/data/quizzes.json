@@ -1,0 +1,1433 @@
+[
+  {
+    "title": "Sixty 30",
+    "day": "Thursday",
+    "address": "36 Baltimore Parade, Merriwa WA 6030, Australia",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/sixty-30-wa/",
+    "lat": -31.6693345,
+    "lon": 115.7147985
+  },
+  {
+    "title": "The Landing Alkimos",
+    "day": "Sunday",
+    "address": "Marmion Ave, Alkimos WA 6038, Australia",
+    "time": "6:30pm",
+    "link": "https://quizfinder.com.au/event/the-landing-alkimos-wa/",
+    "lat": -31.6023016,
+    "lon": 115.6827382
+  },
+  {
+    "title": "The B Bar",
+    "day": "Tuesday",
+    "address": "EX008/20 Settlers Ave, Baldivis WA 6171, Australia",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/the-b-bar-wa/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "Victoria Park Hotel",
+    "day": "Wednesday",
+    "address": "605 Albany Hwy, Victoria Park WA 6100, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/victoria-park-hotel-wa/",
+    "lat": -31.9797948,
+    "lon": 115.8996369
+  },
+  {
+    "title": "Varsity Whitfords",
+    "day": "Monday",
+    "address": "Whitfords Ave, Hillarys WA 6025, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/varsity-whitfords-wa/",
+    "lat": -31.7955738,
+    "lon": 115.7491636
+  },
+  {
+    "title": "Varsity Morley",
+    "day": "Monday",
+    "address": "33 Rudloc Rd, Morley WA 6062, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/varsity-morley-wa/",
+    "lat": -31.8996179,
+    "lon": 115.8992799
+  },
+  {
+    "title": "Varsity Innaloo",
+    "day": "Monday",
+    "address": "57 Liege St, Woodlands WA 6018, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/varsity-innaloo-wa/",
+    "lat": -31.9044506,
+    "lon": 115.7972847
+  },
+  {
+    "title": "Varsity Fremantle",
+    "day": "Monday",
+    "address": "11 Newman Ct, Fremantle WA 6160, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/varsity-fremantle-wa/",
+    "lat": -32.0542787,
+    "lon": 115.7488594
+  },
+  {
+    "title": "Varsity Cannington",
+    "day": "Monday",
+    "address": "1525 Albany Hwy, Beckenham WA 6107, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/varsity-cannington-wa/",
+    "lat": -32.0281737,
+    "lon": 115.951556
+  },
+  {
+    "title": "The Windsor Hotel",
+    "day": "Wednesday",
+    "address": "112 Mill Point Rd, South Perth WA 6151, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/the-windsor-hotel-wa/",
+    "lat": -31.9730193,
+    "lon": 115.8524122
+  },
+  {
+    "title": "The White Horse Tavern",
+    "day": "Monday",
+    "address": "124 Amazon Dr, Baldivis WA 6171, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/the-white-horse-tavern-wa/",
+    "lat": -32.3168082,
+    "lon": 115.8176255
+  },
+  {
+    "title": "The Waverley Brewhouse",
+    "day": "Wednesday",
+    "address": "Rooftop Dining, Carousel Shopping Centre, Shop R207, Level 2/1382 Albany Hwy, Cannington WA 6107, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/the-waverley-brewhouse-wa/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "The Stirling Arms Hotel",
+    "day": "Thursday",
+    "address": "117 James St, Guildford WA 6055, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/the-stirling-arms-hotel-wa/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "The Stables",
+    "day": "Wednesday",
+    "address": "888 Hay St, Perth WA 6000, Australia",
+    "time": "6:30pm",
+    "link": "https://quizfinder.com.au/event/the-stables-wa/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "The Sporting Globe",
+    "day": "Wednesday",
+    "address": "Shop FBN1/227 Belmont Ave, Cloverdale WA 6105, Australia",
+    "time": "7:30pm",
+    "link": "https://quizfinder.com.au/event/the-sporting-globe-wa/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "The Mighty Quinn Tavern",
+    "day": "Thursday",
+    "address": "112 Wanneroo Rd, Yokine WA 6060, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/the-mighty-quinn-tavern-wa/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "The Little Bib",
+    "day": "Wednesday",
+    "address": "1/134 Parkway Rd, Bibra Lake WA 6163, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/the-little-bib-wa/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "The Hangar",
+    "day": "Wednesday",
+    "address": "15 Swan Bank Rd, Maylands WA 6051, Australia",
+    "time": "6.30pm",
+    "link": "https://quizfinder.com.au/event/the-hangar-wa/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "The Guildford Hotel",
+    "day": "Tuesday",
+    "address": "159 James St, Guildford WA 6055, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/the-guildford-hotel-wa/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "The Grosvenor",
+    "day": "Wednesday",
+    "address": "339 Hay St, Perth WA 6000, Australia",
+    "time": "6.30pm",
+    "link": "https://quizfinder.com.au/event/the-grosvenor-wa/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "The Chase Bar & Bistro",
+    "day": "Wednesday",
+    "address": "13 Settlers Ave, Baldivis WA 6171, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/the-chase-bar-bistro-wa/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "The Alexander",
+    "day": "Wednesday",
+    "address": "322 Alexander Dr, Ballajura WA 6066, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/the-alexander-wa/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "Sunny Social",
+    "day": "Wednesday",
+    "address": "102 Marmion Ave, Karrinyup WA 6018, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/sunny-social-wa/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "South Beach Hotel",
+    "day": "Wednesday",
+    "address": "396 South Terrace, South Fremantle WA 6162, Australia",
+    "time": "7:30pm",
+    "link": "https://quizfinder.com.au/event/south-beach-hotel-wa/",
+    "lat": -32.0727966,
+    "lon": 115.7532287
+  },
+  {
+    "title": "Rocky Ridge Burswood",
+    "day": "Wednesday",
+    "address": "84/88 Goodwood Pde., Burswood WA 6100, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/rocky-ridge-burswood-wa/",
+    "lat": -31.9588954,
+    "lon": 115.9004651
+  },
+  {
+    "title": "Quarter Acre Hotel",
+    "day": "Thursday",
+    "address": "767 Canning Hwy, Applecross WA 6153, Australia",
+    "time": "6:30pm",
+    "link": "https://quizfinder.com.au/event/quarter-acre-hotel-wa/",
+    "lat": -32.0166628,
+    "lon": 115.8409984
+  },
+  {
+    "title": "Palace Arcade Northbridge",
+    "day": "Thursday",
+    "address": "84 Beaufort St, Perth WA 6000, Australia",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/palace-arcade-northbridge-wa/",
+    "lat": -31.9495815,
+    "lon": 115.8629291
+  },
+  {
+    "title": "Molly's Irish Pub Highgate",
+    "day": "Wednesday",
+    "address": "488 Beaufort St, Highgate WA 6003, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/molly-s-irish-pub-highgate-wa/",
+    "lat": -31.9389016,
+    "lon": 115.8695764
+  },
+  {
+    "title": "Molly's East Victoria Park",
+    "day": "Wednesday",
+    "address": "774 Albany Hwy, East Victoria Park WA 6101, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/molly-s-east-victoria-park-wa/",
+    "lat": -31.9844527,
+    "lon": 115.9029912
+  },
+  {
+    "title": "Midland Tavern",
+    "day": "Wednesday",
+    "address": "23 Cale St, Midland WA 6056, Australia",
+    "time": "6:30pm",
+    "link": "https://quizfinder.com.au/event/midland-tavern-wa/",
+    "lat": -31.8896033,
+    "lon": 116.0071593
+  },
+  {
+    "title": "Long Neck",
+    "day": "Wednesday",
+    "address": "T3 & T2A, 306 Riverside Dr, East Perth WA 6004, Australia",
+    "time": "6.30pm",
+    "link": "https://quizfinder.com.au/event/long-neck-wa/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "Karalee On Preston",
+    "day": "Wednesday",
+    "address": "Como Centre, 25 Preston St, Como WA 6152, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/karalee-on-preston-wa/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "Kalamunda Hotel",
+    "day": "Wednesday",
+    "address": "43 Railway Rd, Kalamunda WA 6076, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/kalamunda-hotel-wa/",
+    "lat": -31.9721802,
+    "lon": 116.059794
+  },
+  {
+    "title": "Hotel Rottnest",
+    "day": "Wednesday",
+    "address": "Thompson Bay, 1 Bedford Ave, Rottnest Island WA 6161, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/hotel-rottnest-wa/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "Good Company",
+    "day": "Tuesday",
+    "address": "Shop MJ0265/200 Karrinyup Rd, Karrinyup WA 6018, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/good-company-wa/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "Fenway Subiaco",
+    "day": "Monday",
+    "address": "328 Barker Rd, Subiaco WA 6008, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/fenway-subiaco-wa/",
+    "lat": -31.9485651,
+    "lon": 115.823367
+  },
+  {
+    "title": "El Grotto",
+    "day": "Wednesday",
+    "address": "Shop 5/148 The Esplanade, Scarborough WA 6019, Australia",
+    "time": "7.30pm",
+    "link": "https://quizfinder.com.au/event/el-grotto-wa/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "Durty Nelly's",
+    "day": "Thursday",
+    "address": "397 Murray St, Perth WA 6000, Australia",
+    "time": "6:30pm",
+    "link": "https://quizfinder.com.au/event/durty-nelly-s-wa/",
+    "lat": -31.9517865,
+    "lon": 115.853687
+  },
+  {
+    "title": "Cheeky Monkey Brewing Co",
+    "day": "Tuesday",
+    "address": "t217 Syren St, Rockingham WA 6168, Australia",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/cheeky-monkey-brewing-co-wa/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "Carrington's Bar and Grill",
+    "day": "Wednesday",
+    "address": "330 Carrington St, Hamilton Hill WA 6163, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/carrington-s-bar-and-grill-wa/",
+    "lat": -32.0756489,
+    "lon": 115.7801052
+  },
+  {
+    "title": "Carnaby's",
+    "day": "Tuesday",
+    "address": "1 Carnaby Close, East Fremantle WA 6158, Australia",
+    "time": "6:30pm",
+    "link": "https://quizfinder.com.au/event/carnaby-s-wa/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "Brewdog Perth",
+    "day": "Tuesday",
+    "address": "16 Gordon St, West Perth WA 6005, Australia",
+    "time": "6:30pm",
+    "link": "https://quizfinder.com.au/event/brewdog-perth-wa/",
+    "lat": -31.9483395,
+    "lon": 115.8473675
+  },
+  {
+    "title": "Bicton Tavern",
+    "day": "Tuesday",
+    "address": "1 Point Walter Rd, Bicton WA 6157, Australia",
+    "time": "7.30pm",
+    "link": "https://quizfinder.com.au/event/bicton-tavern-wa/",
+    "lat": -32.0356839,
+    "lon": 115.7841937
+  },
+  {
+    "title": "Benny's",
+    "day": "Thursday",
+    "address": "10-12 South Terrace, Fremantle WA 6160, Australia",
+    "time": "7:30pm",
+    "link": "https://quizfinder.com.au/event/benny-s-wa/",
+    "lat": -32.057981,
+    "lon": 115.7505376
+  },
+  {
+    "title": "Bad Apples",
+    "day": "Wednesday",
+    "address": "6/16 Riseley St, Ardross WA 6153, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/bad-apples-wa/",
+    "lat": -32.0324145,
+    "lon": 115.83827
+  },
+  {
+    "title": "JB O\u2019Reilly\u2019s",
+    "day": "Monday",
+    "address": "99 Cambridge St, West Leederville WA 6007, Australia",
+    "time": "6pm",
+    "link": "https://quizfinder.com.au/event/jb-o-reilly-s-wa/",
+    "lat": -31.9408592,
+    "lon": 115.8354801
+  },
+  {
+    "title": "Bassendean Hotel",
+    "day": "Wednesday",
+    "address": "25 Old Perth Rd, Bassendean WA 6054, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/bassendean-hotel-wa/",
+    "lat": -31.9041309,
+    "lon": 115.9485333
+  },
+  {
+    "title": "Ye Olde Narrogin Inne",
+    "day": "Monday",
+    "address": "2 S Western Hwy, Armadale WA 6112, Australia",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/ye-olde-narrogin-inne-wa/",
+    "lat": -32.1506208,
+    "lon": 116.0224058
+  },
+  {
+    "title": "Kalamunda Tap House",
+    "day": "Tuesday",
+    "address": "Corner Haynes Street and, Central Mall, Kalamunda WA 6076, Australia",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/kalamunda-tap-house-wa/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "Dome Koombana Bay",
+    "day": "Tuesday",
+    "address": "1/21 Holman St, Bunbury WA 6229, Australia",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/dome-koombana-bay-wa/",
+    "lat": -33.3200001,
+    "lon": 115.6392023
+  },
+  {
+    "title": "Burlington Hotel",
+    "day": "Thursday",
+    "address": "51 Victoria St, Bunbury WA 6230, Australia",
+    "time": "7:30pm",
+    "link": "https://quizfinder.com.au/event/burlington-hotel-wa/",
+    "lat": -33.3221669,
+    "lon": 115.6369223
+  },
+  {
+    "title": "Willi&#x27;s Bar @ The Royal",
+    "day": "Tuesday",
+    "address": "531 Wellington St, Perth WA 6000, Australia",
+    "time": "6:30pm",
+    "link": "https://quizfinder.com.au/event/willi-x27-s-bar-the-royal-wa/",
+    "lat": -31.9513379,
+    "lon": 115.8578523
+  },
+  {
+    "title": "Whale and Ale",
+    "day": "Wednesday",
+    "address": "Key Largo Dr & Ocean Keys Boulevard, 34 Key Largo Dr, Clarkson WA 6030, Australia",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/whale-and-ale-wa/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "The Rechabite",
+    "day": "Tuesday",
+    "address": "224 William St, Northbridge WA 6003, Australia",
+    "time": "6:30pm",
+    "link": "https://quizfinder.com.au/event/the-rechabite-wa/",
+    "lat": -31.9486015,
+    "lon": 115.8598179
+  },
+  {
+    "title": "The Left Bank",
+    "day": "Tuesday",
+    "address": "15 Riverside Rd, East Fremantle WA 6158, Australia",
+    "time": "",
+    "link": "https://quizfinder.com.au/event/the-left-bank-wa/",
+    "lat": -32.0393858,
+    "lon": 115.7615019
+  },
+  {
+    "title": "The Leederville Hotel",
+    "day": "Tuesday",
+    "address": "2/742 Newcastle St, Leederville WA 6007, Australia",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/the-leederville-hotel-wa/",
+    "lat": -31.9374774,
+    "lon": 115.8418196
+  },
+  {
+    "title": "The Globe",
+    "day": "Wednesday",
+    "address": "495/497 Wellington St, Perth WA 6000, Australia",
+    "time": "",
+    "link": "https://quizfinder.com.au/event/the-globe-wa/",
+    "lat": -31.9516186,
+    "lon": 115.858539
+  },
+  {
+    "title": "The Foreshore Hangout Lounge",
+    "day": "Thursday",
+    "address": "36 Foreshore Dr, Geraldton WA 6530, Australia",
+    "time": "6:30pm",
+    "link": "https://quizfinder.com.au/event/the-foreshore-hangout-lounge-wa/",
+    "lat": -28.7676379,
+    "lon": 114.6133676
+  },
+  {
+    "title": "The Elford",
+    "day": "Wednesday",
+    "address": "639 Beaufort St, Mount Lawley WA 6050, Australia",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/the-elford-wa/",
+    "lat": -31.9289729,
+    "lon": 115.8768356
+  },
+  {
+    "title": "The Coogee Boathouse",
+    "day": "Tuesday",
+    "address": "Unit 3/72 Pantheon Ave, North Coogee WA 6163, Australia",
+    "time": "6:30pm",
+    "link": "https://quizfinder.com.au/event/the-coogee-boathouse-wa/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "The Claremont Hotel",
+    "day": "Wednesday",
+    "address": "1 Bay View Terrace, Claremont WA 6010, Australia",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/the-claremont-hotel-wa/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "The Bayswater Hotel",
+    "day": "Wednesday",
+    "address": "78-80 Railway Parade, Bayswater WA 6053, Australia",
+    "time": "",
+    "link": "https://quizfinder.com.au/event/the-bayswater-hotel-wa/",
+    "lat": -31.9174298,
+    "lon": 115.9129211
+  },
+  {
+    "title": "Spinifex Hotel Derby",
+    "day": "Tuesday",
+    "address": "Spinifex Motel, 6 Clarendon St, Derby WA 6728, Australia",
+    "time": "6:30pm",
+    "link": "https://quizfinder.com.au/event/spinifex-hotel-derby-wa/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "Spinifex Brewery Cable Beach",
+    "day": "Monday",
+    "address": "7 Sanctuary Rd, Cable Beach WA 6726, Australia",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/spinifex-brewery-cable-beach-wa/",
+    "lat": -17.9303777,
+    "lon": 122.2163175
+  },
+  {
+    "title": "Otherside of Nowhere",
+    "day": "Thursday",
+    "address": "25 Harrogate St, West Leederville WA 6007, Australia",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/otherside-of-nowhere-wa/",
+    "lat": -31.9415053,
+    "lon": 115.8419719
+  },
+  {
+    "title": "Northbridge Brewing Co",
+    "day": "Thursday",
+    "address": "44 Lake St, Northbridge WA 6003, Australia",
+    "time": "6:30pm",
+    "link": "https://quizfinder.com.au/event/northbridge-brewing-co-wa/",
+    "lat": -31.9473853,
+    "lon": 115.8572839
+  },
+  {
+    "title": "Henry M&#x27;s",
+    "day": "Wednesday",
+    "address": "27 Welwyn Ave, Manning WA 6152, Australia",
+    "time": "6:00pm",
+    "link": "https://quizfinder.com.au/event/henry-m-x27-s-wa/",
+    "lat": -32.0151656,
+    "lon": 115.8690299
+  },
+  {
+    "title": "Gage Roads Brew Co",
+    "day": "Wednesday",
+    "address": "Peter Hughes Dr, Fremantle WA 6160, Australia",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/gage-roads-brew-co-wa/",
+    "lat": -32.0498832,
+    "lon": 115.746814
+  },
+  {
+    "title": "Ciao Dandy",
+    "day": "Thursday",
+    "address": "FC0208, Karrinyup Shopping Centre, 200 Karrinyup Rd, Karrinyup WA 6018, Australia",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/ciao-dandy-wa/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "Blasta Brewing",
+    "day": "Tuesday",
+    "address": "102 Goodwood Pde., Burswood WA 6100, Australia",
+    "time": "6:30pm",
+    "link": "https://quizfinder.com.au/event/blasta-brewing-wa/",
+    "lat": -31.9598701,
+    "lon": 115.9008647
+  },
+  {
+    "title": "Beach St Co",
+    "day": "Wednesday",
+    "address": "123 Beach St, Fremantle WA 6160, Australia",
+    "time": "6:30pm",
+    "link": "https://quizfinder.com.au/event/beach-st-co-wa/",
+    "lat": -32.043408,
+    "lon": 115.7536011
+  },
+  {
+    "title": "Ball &amp; Chain",
+    "day": "Thursday",
+    "address": "Marine Terrace &, 46-54 Collie St, Fremantle WA 6160, Australia",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/ball-amp-chain-wa/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "Baillie Hill",
+    "day": "Tuesday",
+    "address": "15 Hill View Terrace, East Victoria Park WA 6101, Australia",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/baillie-hill-wa/",
+    "lat": -31.993074,
+    "lon": 115.9079217
+  },
+  {
+    "title": "The Pipers Inn Rockingham",
+    "day": "Thursday",
+    "address": "T215C, Syren St, Rockingham WA 6168, Australia",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/the-pipers-inn-rockingham-2/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "The Pipers Inn Mandurah",
+    "day": "Thursday",
+    "address": "8/4-10 Old Coast Rd, Halls Head WA 6210, Australia",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/the-pipers-inn-mandurah-2/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "Broken Hill Hotel",
+    "day": "Thursday",
+    "address": "314 Albany Hwy, Victoria Park WA 6100, Australia",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/broken-hill-hotel/",
+    "lat": -31.9726134,
+    "lon": 115.8962014
+  },
+  {
+    "title": "Sandy Cove Tavern",
+    "day": "Thursday",
+    "address": "146 S Yunderup Rd, South Yunderup WA 6208, Australia",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/sandy-cove-tavern/",
+    "lat": -32.585757,
+    "lon": 115.7869762
+  },
+  {
+    "title": "The Suburban Bar",
+    "day": "Tuesday",
+    "address": "Unit 4/1 Champion Dr, Bertram WA 6167, Australia",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/the-suburban-bar/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "Boab Tavern",
+    "day": "Wednesday",
+    "address": "107 Dundas Road, High Wycombe, Perth,WA, 6057",
+    "time": "7PM",
+    "link": "https://quizfinder.com.au/event/boab-tavern/",
+    "lat": -31.9462398,
+    "lon": 115.9914896
+  },
+  {
+    "title": "Live Lounge",
+    "day": "Monday",
+    "address": "Wanneroo Central, shop 47/950 Wanneroo Rd, Wanneroo WA 6065",
+    "time": "7PM",
+    "link": "https://quizfinder.com.au/event/live-lounge/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "Mojo's Bar",
+    "day": "Wednesday",
+    "address": "237 Queen Victoria St, North Fremantle WA 6159",
+    "time": "6:00PM",
+    "link": "https://quizfinder.com.au/event/mojos-bar/",
+    "lat": -32.0354139,
+    "lon": 115.7532622
+  },
+  {
+    "title": "The Cornerstone Tavern",
+    "day": "Tuesday",
+    "address": "Kingsbridge Blvd &amp; Wadhurst Rd, Butler WA 6036",
+    "time": "7:30pm",
+    "link": "https://quizfinder.com.au/event/3788/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "The Pav Restaurant and Bar",
+    "day": "Wednesday",
+    "address": "Peter Anderson Dr, Australind WA 6233",
+    "time": "6:45PM",
+    "link": "https://quizfinder.com.au/event/the-pav-restaurant-and-bar/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "The Old Synagogue Fremantle",
+    "day": "Tuesday",
+    "address": "92 South Terrace Fremantle WA 6160",
+    "time": "6:30pm",
+    "link": "https://quizfinder.com.au/event/the-old-synagogue-fremantle/",
+    "lat": -32.0567881,
+    "lon": 115.7498198
+  },
+  {
+    "title": "The Beaufort",
+    "day": "Thursday",
+    "address": "521-525 Beaufort Street Highgate WA 6003",
+    "time": "6pm",
+    "link": "https://quizfinder.com.au/event/the-beaufort/",
+    "lat": -31.9397271,
+    "lon": 115.8687975
+  },
+  {
+    "title": "Stories",
+    "day": "Tuesday",
+    "address": "Yagan Square, 376-420 Wellington Street, Perth WA 6000",
+    "time": "6pm",
+    "link": "https://quizfinder.com.au/event/stories/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "The Station South Perth",
+    "day": "Monday",
+    "address": "1 Mends Street, South Perth, WA 6151",
+    "time": "6pm",
+    "link": "https://quizfinder.com.au/event/the-station-south-perth/",
+    "lat": -31.9741158,
+    "lon": 115.8513098
+  },
+  {
+    "title": "Newman Hotel",
+    "day": "Thursday",
+    "address": "1401 Newman Drive, Newman WA",
+    "time": "6:30pm",
+    "link": "https://quizfinder.com.au/event/newman-hotel/",
+    "lat": -23.3578301,
+    "lon": 119.7283801
+  },
+  {
+    "title": "The Brighton Mandurah",
+    "day": "Tuesday",
+    "address": "10/12 Mandurah Terrace, Mandurah WA 6210",
+    "time": "7PM",
+    "link": "https://quizfinder.com.au/event/the-brighton-mandurah/",
+    "lat": -32.5165267,
+    "lon": 115.7340286
+  },
+  {
+    "title": "The Lucky Shag Waterfront Bar",
+    "day": "Tuesday",
+    "address": "1 Barrack Square, Perth WA 6000",
+    "time": "6pm",
+    "link": "https://quizfinder.com.au/event/the-lucky-shag-waterfront-bar/",
+    "lat": -31.9593921,
+    "lon": 115.8592019
+  },
+  {
+    "title": "The Sporting Globe Floreat",
+    "day": "Wednesday",
+    "address": "Floreat Forum, Shop 94 Howtree Pl, Floreat 6014",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/the-sporting-globe-floreat/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "Whitfords Brewing Co",
+    "day": "Thursday",
+    "address": "Dining &amp; Entertainment Hub Westfield Whitford City, Hillarys WA 6025",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/whitfords-brewing-co/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "Social House",
+    "day": "Thursday",
+    "address": "5/227 Main St, Osborne Park WA 6017",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/social-house/",
+    "lat": -31.8932786,
+    "lon": 115.8283153
+  },
+  {
+    "title": "Highway Hotel",
+    "day": "Thursday",
+    "address": "Forrest Ave &amp;, Spencer St, Bunbury WA 6230",
+    "time": "7:30pm",
+    "link": "https://quizfinder.com.au/event/highway-hotel/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "Peel Alehouse",
+    "day": "Tuesday",
+    "address": "8 Guava Way, Halls Head WA 6210",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/peel-alehouse/",
+    "lat": -32.5488028,
+    "lon": 115.7007737
+  },
+  {
+    "title": "Bark Subiaco",
+    "day": "Thursday",
+    "address": "502 Hay St, Subiaco WA 6008",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/bark-subiaco/",
+    "lat": -31.9466968,
+    "lon": 115.8219616
+  },
+  {
+    "title": "Burger Baby",
+    "day": "Thursday",
+    "address": "2 Andrews Way, Margaret River",
+    "time": "6:30pm",
+    "link": "https://quizfinder.com.au/event/burger-baby/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "Tower Hotel Kalgoorlie",
+    "day": "Thursday",
+    "address": "Crn Maritana &amp; Bourke Streets, Kalgoorlie",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/tower-hotel-kalgoorlie/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "Fat Boyz Small Bar",
+    "day": "Thursday",
+    "address": "1303 Hay Street, West Perth",
+    "time": "6:30pm",
+    "link": "https://quizfinder.com.au/event/fat-boyz-small-bar/",
+    "lat": -31.9480703,
+    "lon": 115.839272
+  },
+  {
+    "title": "Phat Brew Club",
+    "day": "Wednesday",
+    "address": "City West Complex, 102 Railway St, West Perth",
+    "time": "6:00pm",
+    "link": "https://quizfinder.com.au/event/phat-brew-club/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "Eaton Tavern",
+    "day": "Tuesday",
+    "address": "1 Albatross Cres, Eaton",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/eaton-tavern/",
+    "lat": -33.321071,
+    "lon": 115.7156035
+  },
+  {
+    "title": "APIWA Club Rooms",
+    "day": "Thursday",
+    "address": "Rear Unit 6/1270-1274 Albany Hwy, Cannington",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/apiwa-club-rooms/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "Cobblers Tavern",
+    "day": "Tuesday",
+    "address": "4 Olive Rd Falcon 6210",
+    "time": "7:15pm",
+    "link": "https://quizfinder.com.au/event/cobblers-tavern/",
+    "lat": -32.5828206,
+    "lon": 115.6638057
+  },
+  {
+    "title": "Hanks Bar & Bistro",
+    "day": "Tuesday",
+    "address": "Lot 504 Ennis Avenue & Granges Drive Cooloongup 6168",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/hanks-bar-bistro/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "Port Kennedy RSL",
+    "day": "Monday",
+    "address": "27 Paxton Way Port Kennedy 6172",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/port-kennedy-rsl/",
+    "lat": -32.3657987,
+    "lon": 115.7610176
+  },
+  {
+    "title": "The Kwinana Local",
+    "day": "Wednesday",
+    "address": "1 Chisham Avenue Kwinana 6167",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/the-kwinana-local/",
+    "lat": -32.2439113,
+    "lon": 115.8183364
+  },
+  {
+    "title": "The Lakelands",
+    "day": "Tuesday",
+    "address": "Corner Barrine Road and Seppings Parade Lakelands 6180",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/the-lakelands/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "The Sporting Globe Mandurah",
+    "day": "Wednesday",
+    "address": "Mandurah Forum  330 Pinjarra Rd Mandurah 6210",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/the-sporting-globe-mandurah/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "The Sporting Globe Rockingham",
+    "day": "Wednesday",
+    "address": "Rockingham Shopping Centre  Syren Street ROCKINGHAM 6168",
+    "time": "7:00pm",
+    "link": "https://quizfinder.com.au/event/the-sporting-globe-rockingham/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "Empire Bar",
+    "day": "Thursday",
+    "address": "220 Great Eastern Hwy, Lathlain WA 6100",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/empire-bar/",
+    "lat": -31.9610687,
+    "lon": 115.9023347
+  },
+  {
+    "title": "Cottesloe Beach Hotel",
+    "day": "Thursday",
+    "address": "104 Marine Parade, Cottesloe WA 6011",
+    "time": "7:30pm",
+    "link": "https://quizfinder.com.au/event/cottesloe-beach-hotel/",
+    "lat": -31.9947045,
+    "lon": 115.7522963
+  },
+  {
+    "title": "The Hampden Hotel",
+    "day": "Thursday",
+    "address": "156 Hampden Rd, Nedlands WA 6009",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/the-hampden-hotel/",
+    "lat": -31.972524,
+    "lon": 115.8134326
+  },
+  {
+    "title": "The Carine",
+    "day": "Wednesday",
+    "address": "493 Beach Rd, Duncraig WA 6023",
+    "time": "7:30pm",
+    "link": "https://quizfinder.com.au/event/the-carine-2/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "Paddington Ale House",
+    "day": "Wednesday",
+    "address": "141 Scarborough Beach Rd, Mount Hawthorn WA 6016",
+    "time": "7:30pm",
+    "link": "https://quizfinder.com.au/event/paddington-ale-house/",
+    "lat": -31.9220613,
+    "lon": 115.8397394
+  },
+  {
+    "title": "The Galway Hooker",
+    "day": "Tuesday",
+    "address": "Tenancy 3/148 The Esplanade, Scarborough WA 6019",
+    "time": "7:30pm",
+    "link": "https://quizfinder.com.au/event/the-galway-hooker/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "Otherside Brewing Co",
+    "day": "Wednesday",
+    "address": "Blaikie Street, Myaree, WA 6154",
+    "time": "6pm",
+    "link": "https://quizfinder.com.au/event/otherside-brewing-co/",
+    "lat": -32.0421964,
+    "lon": 115.8210534
+  },
+  {
+    "title": "The Kardinya Tavern",
+    "day": "Tuesday",
+    "address": "17 South St, Kardinya WA 6163",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/the-kardinya-tavern/",
+    "lat": -32.0672807,
+    "lon": 115.8182739
+  },
+  {
+    "title": "Varsity Northbridge",
+    "day": "Monday",
+    "address": "94 Aberdeen St, Northbridge WA 6003",
+    "time": "7:30pm",
+    "link": "https://quizfinder.com.au/event/varsity-northbridge/",
+    "lat": -31.9461473,
+    "lon": 115.8588278
+  },
+  {
+    "title": "8 Knots",
+    "day": "Monday",
+    "address": "110 Riverside Rd, East Fremantle WA 6158",
+    "time": "7:30pm",
+    "link": "https://quizfinder.com.au/event/8-knots/",
+    "lat": -32.0359123,
+    "lon": 115.7627296
+  },
+  {
+    "title": "The Court",
+    "day": "Thursday",
+    "address": "50 Beaufort St, Perth WA 6000",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/the-court/",
+    "lat": -31.9502519,
+    "lon": 115.8624819
+  },
+  {
+    "title": "Wannabrew Bar & Grill",
+    "day": "Thursday",
+    "address": "Shop 47 Wanneroo Central, 950 Wanneroo Rd, Wanneroo WA 6065",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/wannabrew-bar-grill/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "The Bayswater Hotel",
+    "day": "Wednesday",
+    "address": "78-80 Railway Parade, Bayswater WA 6053",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/the-bayswater-hotel/",
+    "lat": -31.9174298,
+    "lon": 115.9129211
+  },
+  {
+    "title": "The Pipers Inn - Currambine",
+    "day": "Thursday",
+    "address": "1244 Marmion Ave, Currambine WA 6028",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/the-pipers-inn-currambine-2/",
+    "lat": -31.7406919,
+    "lon": 115.7396465
+  },
+  {
+    "title": "The Morris",
+    "day": "Monday",
+    "address": "2 Morris Rd, Innaloo WA 6018",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/the-saint/",
+    "lat": -31.8892443,
+    "lon": 115.7930135
+  },
+  {
+    "title": "The Thornlie",
+    "day": "Tuesday",
+    "address": "336 Spencer Rd, Thornlie WA 6108",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/the-thornlie/",
+    "lat": -32.0437469,
+    "lon": 115.950405
+  },
+  {
+    "title": "7 Mile Bar & Bistro",
+    "day": "Tuesday",
+    "address": "501 Wanneroo Rd, Balcatta WA 6021",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/7-mile-bar-bistro/",
+    "lat": -31.8619148,
+    "lon": 115.8266335
+  },
+  {
+    "title": "Kalamunda Tap House",
+    "day": "Tuesday",
+    "address": "Corner Haynes Street and, Central Mall, Kalamunda WA",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/kalamunda-tap-house/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "The Russell Inn",
+    "day": "Tuesday",
+    "address": "137A Russell St, Morley WA 6062",
+    "time": "6:30PM",
+    "link": "https://quizfinder.com.au/event/the-russell-inn/",
+    "lat": -31.9021779,
+    "lon": 115.9014155
+  },
+  {
+    "title": "The Dunsborough Tavern",
+    "day": "Tuesday",
+    "address": "2 Dunsborough Pl, Dunsborough WA 6281",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/the-dunsborough-tavern/",
+    "lat": -33.6164386,
+    "lon": 115.1071324
+  },
+  {
+    "title": "The White Star Hotel",
+    "day": "Tuesday",
+    "address": "72 Stirling Terrace, Albany WA 6330",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/the-white-star-hotel/",
+    "lat": -35.027121,
+    "lon": 117.8856122
+  },
+  {
+    "title": "Kingsley Tavern",
+    "day": "Tuesday",
+    "address": "90 Kingsley Dr, Kingsley WA 6026",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/kingsley-tavern/",
+    "lat": -31.816537,
+    "lon": 115.7893476
+  },
+  {
+    "title": "The B Bar Rockingham",
+    "day": "Tuesday",
+    "address": "EX008, 20 Settlers Ave, Baldivis, WA, 6171",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/the-b-bar-rockingham/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "Leederville Hotel",
+    "day": "Tuesday",
+    "address": "742 Newcastle St, Leederville WA 6007",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/leederville-hotel/",
+    "lat": -31.9373053,
+    "lon": 115.8416108
+  },
+  {
+    "title": "Johnny Fox'S",
+    "day": "Wednesday",
+    "address": "205 James St, Northbridge WA 6003",
+    "time": "6:30pm",
+    "link": "https://quizfinder.com.au/event/johnny-foxs/",
+    "lat": -31.9473801,
+    "lon": 115.8550294
+  },
+  {
+    "title": "Heights Bar and Bistro",
+    "day": "Wednesday",
+    "address": "2/200 Mirrabooka Ave, Alexander Heights WA 6064, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/heights-bar-and-bistro/",
+    "lat": -31.8236952,
+    "lon": 115.8544113
+  },
+  {
+    "title": "The Brisbane Hotel (Perth)",
+    "day": "Thursday",
+    "address": "292 Beaufort St, Perth WA 6003, Australia",
+    "time": "From 7pm",
+    "link": "https://quizfinder.com.au/event/the-brisbane-hotel-perth/",
+    "lat": -31.9440305,
+    "lon": 115.8663615
+  },
+  {
+    "title": "The Seasonal Brewing Co.",
+    "day": "Thursday",
+    "address": "175 Guildford Rd, Maylands WA 6051, Australia",
+    "time": "",
+    "link": "https://quizfinder.com.au/event/the-seasonal-brewing-co/",
+    "lat": -31.9293019,
+    "lon": 115.8972168
+  },
+  {
+    "title": "The Inglewood Hotel",
+    "day": "Wednesday",
+    "address": "803 Beaufort St, Perth WA 6052, Australia",
+    "time": "From 7pm",
+    "link": "https://quizfinder.com.au/event/the-inglewood-hotel/",
+    "lat": -31.9251416,
+    "lon": 115.8809021
+  },
+  {
+    "title": "The Federal Hotel",
+    "day": "Wednesday",
+    "address": "23 William St, Fremantle WA 6160, Australia",
+    "time": "From 7pm",
+    "link": "https://quizfinder.com.au/event/the-federal-hotel/",
+    "lat": -32.0547884,
+    "lon": 115.7479674
+  },
+  {
+    "title": "Public House",
+    "day": "Tuesday",
+    "address": "263 Adelaide Terrace, Perth WA, Australia",
+    "time": "6:30pm",
+    "link": "https://quizfinder.com.au/event/public-house/",
+    "lat": -31.9583192,
+    "lon": 115.8654136
+  },
+  {
+    "title": "Indian Ocean Hotel",
+    "day": "Tuesday",
+    "address": "23 Hastings St, Scarborough WA 6019, Australia",
+    "time": "From 7pm",
+    "link": "https://quizfinder.com.au/event/indian-ocean-hotel/",
+    "lat": -31.8965663,
+    "lon": 115.7593561
+  },
+  {
+    "title": "The Balmoral Hotel",
+    "day": "Tuesday",
+    "address": "901 Albany Hwy, Victoria Park WA 6100",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/the-balmoral-hotel/",
+    "lat": -31.9696445,
+    "lon": 115.8908159
+  },
+  {
+    "title": "Bentley Hotel",
+    "day": "Friday",
+    "address": "1120-1124 Albany Hwy, Bentley WA 6102",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/bentley-hotel/",
+    "lat": -31.9998789,
+    "lon": 115.9182533
+  },
+  {
+    "title": "Haynes Bar and Grill",
+    "day": "Wednesday",
+    "address": "Armadale Road &amp; Eighth Road, Armadale, WA 6112, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/haynes-bar-and-grill/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "Newpark Bar and Bistro",
+    "day": "Wednesday",
+    "address": "61 Templeton Cres, Girrawheen WA 6064, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/newpark-bar-and-bistro/",
+    "lat": -31.8351803,
+    "lon": 115.831091
+  },
+  {
+    "title": "The Quarie Bar &amp; Brasserie",
+    "day": "Monday",
+    "address": "2 Macquarie Blvd, Hammond Park WA 6164, Australia",
+    "time": "7:30pm",
+    "link": "https://quizfinder.com.au/event/the-quarie-bar-brasserie/",
+    "lat": -32.1639253,
+    "lon": 115.8468673
+  },
+  {
+    "title": "Clancys Fish Pub (Canning Bridge)",
+    "day": "Monday",
+    "address": "903 Canning Hwy, Applecross WA 6153",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/clancys-fish-pub-canning-bridge/",
+    "lat": -32.0180955,
+    "lon": 115.8380944
+  },
+  {
+    "title": "Vale Bar and Brasserie",
+    "day": "Tuesday",
+    "address": "281 Beeliar Drive, Yangebup WA 6164, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/vale-bar-and-brasserie/",
+    "lat": -32.1270696,
+    "lon": 115.7900951
+  },
+  {
+    "title": "Hyde Park Hotel",
+    "day": "Tuesday",
+    "address": "331 Bulwer St &, Fitzgerald St, West Perth WA 6005",
+    "time": "7:30pm",
+    "link": "https://quizfinder.com.au/event/hyde-park-hotel/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "7th Ave Bar &amp; Restaurant",
+    "day": "Wednesday",
+    "address": "74 Helena St, Midland WA 6056",
+    "time": "6:30pm",
+    "link": "https://quizfinder.com.au/event/7th-ave-bar-restaurant/",
+    "lat": -31.8884432,
+    "lon": 116.003145
+  },
+  {
+    "title": "Varsity Bar (Joondalup)",
+    "day": "Monday",
+    "address": "20 Reid Promenade, Joondalup WA 6027, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/varsity-bar-joondalup/",
+    "lat": -31.7414819,
+    "lon": 115.7687092
+  },
+  {
+    "title": "Rose Hotel",
+    "day": "Wednesday",
+    "address": "27 Wellington Street, Bunbury WA, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/rose-hotel-2/",
+    "lat": -33.3244124,
+    "lon": 115.6337945
+  },
+  {
+    "title": "The Subiaco Hotel",
+    "day": "Wednesday",
+    "address": "226 Hay Street, Subiaco WA, Australia",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/the-subiaco-hotel/",
+    "lat": -31.9470308,
+    "lon": 115.8242758
+  },
+  {
+    "title": "Mt Henry Tavern",
+    "day": "Wednesday",
+    "address": "27 Manning Rd, Perth WA 6152",
+    "time": "7:30pm",
+    "link": "https://quizfinder.com.au/event/mt-henry-tavern/",
+    "lat": -32.0146453,
+    "lon": 115.8597246
+  },
+  {
+    "title": "Murphy's Irish Pub",
+    "day": "Monday",
+    "address": "43 Mandurah Terrace, Mandurah WA 6210",
+    "time": "7:30pm",
+    "link": "https://quizfinder.com.au/event/murphys-irish-pub/",
+    "lat": -32.5165267,
+    "lon": 115.7340286
+  },
+  {
+    "title": "Civic Hotel",
+    "day": "Tuesday",
+    "address": "981 Beaufort St, Inglewood WA 6052",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/civic-hotel/",
+    "lat": -31.9174073,
+    "lon": 115.8904812
+  },
+  {
+    "title": "Sandbar",
+    "day": "Tuesday",
+    "address": "1 Scarborough Beach Rd, Scarborough WA 6019",
+    "time": "7:30pm",
+    "link": "https://quizfinder.com.au/event/sandbar/",
+    "lat": -31.8943401,
+    "lon": 115.7595052
+  },
+  {
+    "title": "Varsity Bar (Nedlands)",
+    "day": "Monday",
+    "address": "Broadway Fair Shopping Centre, 88 Broadway, Crawley WA 6009",
+    "time": "7:30pm",
+    "link": "https://quizfinder.com.au/event/varsity-bar-nedlands/",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "title": "Varsity Bar (Waterford)",
+    "day": "Monday",
+    "address": "55/230 Manning Rd, Karawara WA 6152",
+    "time": "7pm",
+    "link": "https://quizfinder.com.au/event/varsity-bar-waterford/",
+    "lat": -32.0120793,
+    "lon": 115.8761089
+  }
+]
