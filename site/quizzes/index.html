@@ -46,6 +46,19 @@
         <button class="filter-btn" data-day="Sunday">Sunday</button>
       </nav>
 
+      <div class="commute-controls">
+        <label class="commute-toggle">
+          <input type="checkbox" id="commute-color-toggle">
+          Colour by commute distance from nearest station
+        </label>
+      </div>
+
+      <div id="commute-legend" class="commute-legend hidden" aria-live="polite">
+        <span><i class="legend-dot commute-near"></i>Near (≤ 1.5km)</span>
+        <span><i class="legend-dot commute-medium"></i>Medium (≤ 4km)</span>
+        <span><i class="legend-dot commute-far"></i>Far (&gt; 4km)</span>
+      </div>
+
       <div id="status-panel" class="status-panel hidden">
         <span id="status-text">Loading quizzes...</span>
       </div>
