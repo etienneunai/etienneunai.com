@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>QuizMap — etienneunai.com</title>
+  <meta name="description" content="Discover quiz nights in Western Australia.">
+  <meta name="author" content="Etienne Vinton Horn">
+  <link rel="canonical" href="https://etienneunai.com/quizzes">
+
+  <meta name="theme-color" content="#FAFAEA">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;600&family=Ovo&display=swap" rel="stylesheet">
+
+  <link rel="icon" type="image/svg+xml" href="../assets/img/favicon.svg">
+  <link rel="stylesheet" href="../assets/css/styles.css">
+  <link rel="stylesheet" href="style.css">
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="/" style="text-decoration: none;">
+        <h1 class="brand" aria-label="Etienne Vinton Horn — etienneunai.com">Etienne Vinton Horn</h1>
+      </a>
+      <span class="wip-badge">QuizMap</span>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="projects" aria-labelledby="map-heading">
+      <h2 class="section-title" id="map-heading">Western Australia Quiz Nights</h2>
+      <p>Use the buttons below to filter trivia nights by day of the week.</p>
+      
+      <nav class="filter-controls" id="filter-nav">
+        <button class="filter-btn active" data-day="All">All Days</button>
+        <button class="filter-btn" data-day="Monday">Monday</button>
+        <button class="filter-btn" data-day="Tuesday">Tuesday</button>
+        <button class="filter-btn" data-day="Wednesday">Wednesday</button>
+        <button class="filter-btn" data-day="Thursday">Thursday</button>
+        <button class="filter-btn" data-day="Friday">Friday</button>
+        <button class="filter-btn" data-day="Saturday">Saturday</button>
+        <button class="filter-btn" data-day="Sunday">Sunday</button>
+      </nav>
+
+      <div id="status-panel" class="status-panel hidden">
+        <span id="status-text">Loading quizzes...</span>
+      </div>
+
+      <div class="map-viewport">
+        <div id="map"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© 2026 Etienne Vinton Horn</p>
+    </div>
+  </footer>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="map.js"></script>
+</body>
+</html>

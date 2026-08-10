@@ -1,3 +1,4 @@
 me.txt
 bash.exe.stackdump
 scripts/fetch_quizzes/venv/
+.env

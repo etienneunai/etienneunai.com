@@ -2,7 +2,10 @@ import requests
 import json
 import time
 import os
-import re
+import urllib.parse
+from dotenv import load_dotenv
+
+load_dotenv()
 
 API_URL = "https://quizfinder.com.au/wp-json/wp/v2/event"
 REGION_ID = 13 # Western Australia
@@ -15,6 +18,8 @@ DAYS = {
     66: "Saturday",
     67: "Sunday"
 }
+
+GOOGLE_MAPS_API_KEY = os.environ.get("GOOGLE_MAPS_API_KEY")
 
 def fetch_all_events():
     events = []
@@ -44,33 +49,41 @@ def fetch_all_events():
         
     return events
 
-def geocode_address(address):
-    # Nominatim requires a user agent
-    headers = {
-        "User-Agent": "QuizFinderMap/1.0 (contact: personal@etienneunai.com)"
-    }
-    # Clean the address up slightly if needed
-    clean_address = address.split(', Australia')[0]
-    
+def geocode_address_google(address):
+    if not GOOGLE_MAPS_API_KEY:
+        return None, None
+        
+    # Google Maps Geocoding API excels with full addresses, including unit numbers, 
+    # shopping centres, and intersections. We'll pass it exactly as received.
+    endpoint = "https://maps.googleapis.com/maps/api/geocode/json"
     params = {
-        "q": clean_address,
-        "format": "json",
-        "limit": 1
+        "address": address,
+        "key": GOOGLE_MAPS_API_KEY
     }
     
-    print(f"Geocoding: {clean_address}")
+    print(f"Geocoding with Google Maps: {address}")
     try:
-        res = requests.get("https://nominatim.openstreetmap.org/search", params=params, headers=headers)
+        res = requests.get(endpoint, params=params)
         if res.status_code == 200:
             data = res.json()
-            if data and len(data) > 0:
-                return float(data[0]['lat']), float(data[0]['lon'])
+            if data['status'] == 'OK' and len(data['results']) > 0:
+                location = data['results'][0]['geometry']['location']
+                return float(location['lat']), float(location['lng'])
+            else:
+                print(f"Google Maps could not find {address}: {data['status']}")
+        else:
+            print(f"API Error {res.status_code} for {address}")
     except Exception as e:
         print(f"Error geocoding {address}: {e}")
         
     return None, None
 
 def main():
+    if not GOOGLE_MAPS_API_KEY:
+        print("ERROR: GOOGLE_MAPS_API_KEY environment variable is not set.")
+        print("Please set it in your terminal or inside a .env file.")
+        return
+
     print("Fetching events from QuizFinder API...")
     raw_events = fetch_all_events()
     print(f"Fetched {len(raw_events)} events.")
@@ -106,9 +119,8 @@ def main():
         
         if address:
             if address not in address_cache:
-                lat, lon = geocode_address(address)
+                lat, lon = geocode_address_google(address)
                 address_cache[address] = (lat, lon)
-                time.sleep(1.1) # Be nice to Nominatim API
             else:
                 lat, lon = address_cache[address]
                 
@@ -117,7 +129,6 @@ def main():
             
         quizzes.append(quiz_obj)
         
-    # Check how many failed to geocode
     failed = [q for q in quizzes if q['lat'] is None]
     print(f"Successfully geocoded {len(quizzes) - len(failed)} out of {len(quizzes)} quizzes.")
     if failed:
@@ -125,9 +136,13 @@ def main():
         for f in failed[:5]:
             print(f" - {f['title']}: {f['address']}")
             
-    with open('quizmap/data/quizzes.json', 'w') as f:
+    # Ensure data directory exists
+    os.makedirs('../../quizzes/data', exist_ok=True)
+    
+    output_path = '../../quizzes/data/quizzes.json'
+    with open(output_path, 'w') as f:
         json.dump(quizzes, f, indent=2)
-    print("Saved to quizmap/data/quizzes.json")
+    print(f"Saved to {output_path}")
 
 if __name__ == "__main__":
     main()
