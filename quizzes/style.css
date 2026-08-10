@@ -3,30 +3,8 @@
    Overrides map styles to fit etienneunai.com design tokens
    ============================================================ */
 
-html, body {
-  height: 100%;
-}
-
-body {
-  display: flex;
-  flex-direction: column;
-}
-
-.site-header, .site-footer {
-  flex-shrink: 0;
-}
-
-main.container {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  padding-bottom: 2rem;
-}
-
-.projects {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
+.projects p {
+  margin: 0 0 0.5rem 0;
 }
 
 .map-viewport {
@@ -52,7 +30,7 @@ main.container {
   flex-wrap: nowrap;
   overflow-x: auto;
   gap: 10px;
-  margin-top: 1rem;
+  margin-top: 0.5rem;
   padding-bottom: 10px;
   -webkit-overflow-scrolling: touch;
   scrollbar-width: thin;
@@ -104,37 +82,38 @@ main.container {
   border: 1px solid var(--oak, #D0C6B0);
   border-radius: var(--radius, 12px);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  padding: 0;
 }
 
 .leaflet-popup-content {
   font-family: var(--font-body, 'Inconsolata', monospace);
-  padding: 5px;
+  margin: 12px 14px;
 }
 
 .leaflet-popup-content h3 {
   font-family: var(--font-display, 'Ovo', serif);
-  font-size: 1.25rem;
-  margin: 0 0 8px 0;
+  font-size: 1.1rem;
+  margin: 0 0 4px 0;
   color: var(--brand, #800000);
 }
 
 .leaflet-popup-content p {
-  margin: 5px 0;
-  font-size: 0.9rem;
+  margin: 2px 0;
+  font-size: 0.85rem;
   line-height: 1.4;
 }
 
 .leaflet-popup-content a {
   display: block;
   text-align: center;
-  margin-top: 15px;
+  margin-top: 10px;
   color: var(--bg, #FAFAEA) !important;
   background: var(--text, #453018);
-  padding: 10px 12px;
+  padding: 8px;
   border-radius: 8px;
   text-decoration: none;
   font-weight: 700;
-  font-size: 0.95rem;
+  font-size: 0.85rem;
   transition: background-color 0.2s ease, transform 0.2s ease;
 }
 
@@ -143,25 +122,12 @@ main.container {
   transform: translateY(-2px);
 }
 
-/* Custom map marker pulse effect - Maroon */
+/* Custom map marker - Removed Pulse Effect */
 .custom-marker {
-  width: 16px;
-  height: 16px;
+  width: 14px;
+  height: 14px;
   background: var(--brand, #800000);
   border-radius: 50%;
-  box-shadow: 0 0 0 rgba(128, 0, 0, 0.4);
-  animation: pulse 2s infinite;
   border: 2px solid var(--bg, #FAFAEA);
-}
-
-@keyframes pulse {
-  0% {
-    box-shadow: 0 0 0 0 rgba(128, 0, 0, 0.7);
-  }
-  70% {
-    box-shadow: 0 0 0 8px rgba(128, 0, 0, 0);
-  }
-  100% {
-    box-shadow: 0 0 0 0 rgba(128, 0, 0, 0);
-  }
+  box-shadow: 0 2px 4px rgba(0,0,0,0.3);
 }

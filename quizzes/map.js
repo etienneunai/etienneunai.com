@@ -22,9 +22,9 @@ document.addEventListener('DOMContentLoaded', () => {
     // Create custom marker icon
     const customIcon = L.divIcon({
         className: 'custom-marker',
-        iconSize: [20, 20],
-        iconAnchor: [10, 10],
-        popupAnchor: [0, -10]
+        iconSize: [14, 14],
+        iconAnchor: [7, 7],
+        popupAnchor: [0, -7]
     });
 
     const statusPanel = document.getElementById('status-panel');
