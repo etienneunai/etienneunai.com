@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <p><strong>Day:</strong> ${quiz.day}</p>
                     <p><strong>Time:</strong> ${quiz.time || 'N/A'}</p>
                     <p><strong>Address:</strong> ${quiz.address}</p>
-                    <a href="${quiz.link}" target="_blank" rel="noopener noreferrer">View Event</a>
+                    <a href="${quiz.link}" target="_blank" rel="noopener noreferrer">View on QuizFinder</a>
                 </div>
             `;
             
