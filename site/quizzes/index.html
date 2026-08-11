@@ -33,8 +33,13 @@
   <main class="container">
     <section class="projects" aria-labelledby="map-heading">
       <h2 class="section-title" id="map-heading">QuizMap</h2>
-      <p>Map of WA quiz nights, with data sourced from <a href="https://quizfinder.com.au/" target="_blank" rel="noopener noreferrer">QuizFinder.com.au</a><br>Venues are colour-coded on their distance from the nearest station.</p>
+      <p>Map of WA quiz nights, with data sourced from <a href="https://quizfinder.com.au/" target="_blank" rel="noopener noreferrer">QuizFinder.com.au</a></p>
       <div class="map-controls-row">
+        <div class="map-mode-toggle" id="map-mode-toggle">
+          <button class="mode-btn active" data-mode="commute">Commute</button>
+          <button class="mode-btn" data-mode="prices">Prices</button>
+        </div>
+
         <nav class="filter-controls" id="filter-nav">
           <button class="filter-btn active" data-day="All">All</button>
           <button class="filter-btn" data-day="Monday">Monday</button>
@@ -45,11 +50,6 @@
           <button class="filter-btn" data-day="Saturday">Saturday</button>
           <button class="filter-btn" data-day="Sunday">Sunday</button>
         </nav>
-        
-        <div class="map-mode-toggle" id="map-mode-toggle">
-          <button class="mode-btn active" data-mode="commute">Commute</button>
-          <button class="mode-btn" data-mode="prices">Prices</button>
-        </div>
       </div>
 
       <div id="commute-legend" class="map-legend" aria-live="polite">

@@ -65,17 +65,11 @@
 
 .map-controls-row {
   display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 1rem;
   margin-top: 0.5rem;
-}
-
-@media (min-width: 768px) {
-  .map-controls-row {
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-  }
+  align-items: center;
 }
 
 .map-mode-toggle {
@@ -85,6 +79,7 @@
   border-radius: 999px;
   overflow: hidden;
   width: fit-content;
+  flex-shrink: 0;
 }
 
 .mode-btn {
