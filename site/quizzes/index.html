@@ -33,22 +33,35 @@
   <main class="container">
     <section class="projects" aria-labelledby="map-heading">
       <h2 class="section-title" id="map-heading">QuizMap</h2>
-      <p>Map of WA quiz nights, with data sourced from <a href="https://quizfinder.com.au/" target="_blank" rel="noopener noreferrer">QuizFinder.com.au</a><br>Venues are colour-coded on their distance from the nearest station.</p>
-      <nav class="filter-controls" id="filter-nav">
-        <button class="filter-btn active" data-day="All">All</button>
-        <button class="filter-btn" data-day="Monday">Monday</button>
-        <button class="filter-btn" data-day="Tuesday">Tuesday</button>
-        <button class="filter-btn" data-day="Wednesday">Wednesday</button>
-        <button class="filter-btn" data-day="Thursday">Thursday</button>
-        <button class="filter-btn" data-day="Friday">Friday</button>
-        <button class="filter-btn" data-day="Saturday">Saturday</button>
-        <button class="filter-btn" data-day="Sunday">Sunday</button>
-      </nav>
+      <p>Map of WA quiz nights, with data sourced from <a href="https://quizfinder.com.au/" target="_blank" rel="noopener noreferrer">QuizFinder.com.au</a></p>
+      <div class="map-controls-row">
+        <div class="map-mode-toggle" id="map-mode-toggle">
+          <button class="mode-btn active" data-mode="commute">Commute</button>
+          <button class="mode-btn" data-mode="prices">Prices</button>
+        </div>
 
-      <div id="commute-legend" class="commute-legend" aria-live="polite">
+        <nav class="filter-controls" id="filter-nav">
+          <button class="filter-btn active" data-day="All">All</button>
+          <button class="filter-btn" data-day="Monday">Monday</button>
+          <button class="filter-btn" data-day="Tuesday">Tuesday</button>
+          <button class="filter-btn" data-day="Wednesday">Wednesday</button>
+          <button class="filter-btn" data-day="Thursday">Thursday</button>
+          <button class="filter-btn" data-day="Friday">Friday</button>
+          <button class="filter-btn" data-day="Saturday">Saturday</button>
+          <button class="filter-btn" data-day="Sunday">Sunday</button>
+        </nav>
+      </div>
+
+      <div id="commute-legend" class="map-legend" aria-live="polite">
         <span><i class="legend-dot commute-near"></i>Near (< 15 mins)</span>
         <span><i class="legend-dot commute-medium"></i>Medium (15 - 30 mins)</span>
         <span><i class="legend-dot commute-far"></i>Far (&gt; 30 mins)</span>
+      </div>
+
+      <div id="price-legend" class="map-legend hidden" aria-live="polite">
+        <span><i class="legend-dot spenny-1"></i>$ (Budget)</span>
+        <span><i class="legend-dot spenny-2"></i>$$ (Average)</span>
+        <span><i class="legend-dot spenny-3"></i>$$$ (Premium)</span>
       </div>
 
       <div id="status-panel" class="status-panel hidden">
