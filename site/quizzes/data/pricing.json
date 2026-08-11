@@ -1,0 +1,1433 @@
+{
+  "Sixty 30_36 Baltimore Parade, Merriwa WA 6030, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Thursday Quiz Night; Tuesday $12 Burger Special & Karaoke",
+    "spenny": "$",
+    "sourceUrl": "https://www.sixty30.com.au/"
+  },
+  "The Landing Alkimos_Marmion Ave, Alkimos WA 6038, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Sunday Quiz Night with $75 bar card prizes; rotating Tex-Mex and seafood specials",
+    "spenny": "$$",
+    "sourceUrl": "https://www.facebook.com/thelandingalkimos/"
+  },
+  "The B Bar_EX008/20 Settlers Ave, Baldivis WA 6171, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Tuesday 7pm Free QuizzaMe Quiz Night with $50 Bar Voucher top prize and drink specials",
+    "spenny": "$",
+    "sourceUrl": "https://www.thebbarbaldivis.com/"
+  },
+  "Victoria Park Hotel_605 Albany Hwy, Victoria Park WA 6100, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": 11.0,
+    "quizDayHappyHour": "4:30pm - 5:30pm",
+    "specials": "Wednesday Quiz Night; Mon-Fri 4:30-5:30pm Happy Hour ($11 pints, $10 house wines & $10 social snacks)",
+    "spenny": "$$",
+    "sourceUrl": "https://victoriaparkhotel.com.au/events/happy-hour/"
+  },
+  "Varsity Whitfords_Whitfords Ave, Hillarys WA 6025, Australia": {
+    "beerName": "Varsity Lager",
+    "price": 11.0,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Monday 7pm Quiz Night hosted by Dux Nuts with $100 voucher top prize; Thursday $10 Jugs; Tuesday Wing Night",
+    "spenny": "$",
+    "sourceUrl": "https://www.varsity.com.au/menu"
+  },
+  "Varsity Morley_33 Rudloc Rd, Morley WA 6062, Australia": {
+    "beerName": "Varsity Lager",
+    "price": 11.0,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Monday 7pm Quiz Night hosted by Dux Nuts with $100 voucher top prize; Thursday $10 Jugs; Tuesday Wing Night",
+    "spenny": "$",
+    "sourceUrl": "https://www.varsity.com.au/menu"
+  },
+  "Varsity Innaloo_57 Liege St, Woodlands WA 6018, Australia": {
+    "beerName": "Varsity Lager",
+    "price": 11.0,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Monday 7pm Quiz Night hosted by Dux Nuts with $100 voucher top prize; Thursday $10 Jugs; Tuesday Wing Night",
+    "spenny": "$",
+    "sourceUrl": "https://www.varsity.com.au/menu"
+  },
+  "Varsity Fremantle_11 Newman Ct, Fremantle WA 6160, Australia": {
+    "beerName": "Varsity Lager",
+    "price": 11.0,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Monday 7pm Quiz Night hosted by Dux Nuts with $100 voucher top prize; Thursday $10 Jugs; Tuesday Wing Night",
+    "spenny": "$",
+    "sourceUrl": "https://www.varsity.com.au/menu"
+  },
+  "Varsity Cannington_1525 Albany Hwy, Beckenham WA 6107, Australia": {
+    "beerName": "Varsity Lager",
+    "price": 11.0,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Monday 7pm Quiz Night hosted by Dux Nuts with $100 voucher top prize; Thursday $10 Jugs; Tuesday Wing Night",
+    "spenny": "$",
+    "sourceUrl": "https://www.varsity.com.au/menu"
+  },
+  "The Windsor Hotel_112 Mill Point Rd, South Perth WA 6151, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": 10.0,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "Wednesday Trivial Warfare Quiz Night at 6:30pm; Mon-Fri 5-6pm Happy Hour ($10 pints & house wines)",
+    "spenny": "$$",
+    "sourceUrl": "https://www.windsorhotelsouthperth.com/events/2026/4/1/trivial-warfare-quiz-night"
+  },
+  "The White Horse Tavern_124 Amazon Dr, Baldivis WA 6171, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Monday Quiz Night; family-friendly tavern meal specials",
+    "spenny": "$",
+    "sourceUrl": "https://www.thewhitehorsetavern.com.au/"
+  },
+  "The Waverley Brewhouse_Rooftop Dining, Carousel Shopping Centre, Shop R207, Level 2/1382 Albany Hwy, Cannington WA 6107, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "Wednesday Quiz & Steak Night ($25 Steak, Chips & Salad, $15 Jugs of House Beer, 5-6pm Happy Hour)",
+    "spenny": "$$",
+    "sourceUrl": "https://www.waverleybrewhouse.com.au/quiz-steak-night/"
+  },
+  "The Stirling Arms Hotel_117 James St, Guildford WA 6055, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Thursday Free Quiz Night with meal and drink vouchers to be won; classic pub meat raffles",
+    "spenny": "$",
+    "sourceUrl": "https://www.thestirlingarms.com.au/"
+  },
+  "The Stables_888 Hay St, Perth WA 6000, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "Wednesday Quiz Night from 6pm; $20 Lunch for Less specials (Burger/Pie & chips); 5-6pm Happy Hour",
+    "spenny": "$$$",
+    "sourceUrl": "https://www.thestablesbar.com.au/whats-on"
+  },
+  "The Sporting Globe_Shop FBN1/227 Belmont Ave, Cloverdale WA 6105, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": 8.0,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "Wednesday Quiz Night 7:30pm; Mon-Fri 5-6pm Happy Hour ($8 selected pints); Half-price Wings & Ribs specials",
+    "spenny": "$$",
+    "sourceUrl": "https://www.sportingglobe.com.au/whatson/happy-hour-be/belmont/"
+  },
+  "The Mighty Quinn Tavern_112 Wanneroo Rd, Yokine WA 6060, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Thursday Quiz Night; traditional Irish pub specials",
+    "spenny": "$",
+    "sourceUrl": "https://mightyquinnwa.squarespace.com/"
+  },
+  "The Little Bib_1/134 Parkway Rd, Bibra Lake WA 6163, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Wednesday Quiz Night at 7pm",
+    "spenny": "$",
+    "sourceUrl": "https://thelittlebib.com.au/"
+  },
+  "The Hangar_15 Swan Bank Rd, Maylands WA 6051, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": 9.0,
+    "quizDayHappyHour": "4:30pm - 5:30pm",
+    "specials": "Wednesday Quiz Night at 6:30pm; Weekday Happy Hour 4:30-5:30pm ($9 pints)",
+    "spenny": "$$",
+    "sourceUrl": "https://maylandsgolf.com.au/Weekdays-Happy-Hour"
+  },
+  "The Guildford Hotel_159 James St, Guildford WA 6055, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": 9.0,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "Tuesday Quiz Night 7pm; Mon-Fri 5-6pm Happy Hour ($9 pints & house wines)",
+    "spenny": "$$",
+    "sourceUrl": "https://theguildfordhotel.com.au/whats-up/"
+  },
+  "The Grosvenor_339 Hay St, Perth WA 6000, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Wednesday Quiz Night at 6:30pm",
+    "spenny": "$$",
+    "sourceUrl": "https://thegrosvenorperth.com.au/contact-us/"
+  },
+  "The Chase Bar & Bistro_13 Settlers Ave, Baldivis WA 6171, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": 10.0,
+    "quizDayHappyHour": "12:00pm - 1:00pm, 5:00pm - 6:00pm",
+    "specials": "Quiz Night every Wednesday; Monday $15 Burger & Chips special; Tuesday 1/2 Price Pizza",
+    "spenny": "$$",
+    "sourceUrl": "https://thechase.net.au/happy-hour/"
+  },
+  "The Alexander_322 Alexander Dr, Ballajura WA 6066, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "$21 Rump Steak Special on Wednesday Quiz Night",
+    "spenny": "$$",
+    "sourceUrl": "https://thealexander.com.au/"
+  },
+  "Sunny Social_102 Marmion Ave, Karrinyup WA 6018, Australia": {
+    "beerName": "Swan Draught",
+    "price": 11.5,
+    "happyHourPrice": 9.0,
+    "quizDayHappyHour": "4:00pm - 5:00pm",
+    "specials": "Wednesday Quiz Night at 7pm; $20 Pizza or Burger deals",
+    "spenny": "$$",
+    "sourceUrl": "https://www.sunnysocial.com.au/"
+  },
+  "South Beach Hotel_396 South Terrace, South Fremantle WA 6162, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Monthly themed quiz night every last Wednesday of the month",
+    "spenny": "$$",
+    "sourceUrl": "https://www.sbh.net.au/whats-on/"
+  },
+  "Rocky Ridge Burswood_84/88 Goodwood Pde., Burswood WA 6100, Australia": {
+    "beerName": "Rock Candy Sour",
+    "price": 11.0,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Wednesday Quiz Night from 7pm; First Table 50% food deals on early bookings",
+    "spenny": "$$",
+    "sourceUrl": "https://www.rockyridgebrewing.com.au/burswood-taphouse/"
+  },
+  "Quarter Acre Hotel_767 Canning Hwy, Applecross WA 6153, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": 10.0,
+    "quizDayHappyHour": "4:30pm - 5:30pm",
+    "specials": "$150 bar voucher for 1st place, $75 voucher for 2nd place on Thursday Quiz Night",
+    "spenny": "$$",
+    "sourceUrl": "https://quarteracrehotel.com.au/events/happy-hour/"
+  },
+  "Palace Arcade Northbridge_84 Beaufort St, Perth WA 6000, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Weekly Quiz Night hosted by Duxnuts",
+    "spenny": "$$",
+    "sourceUrl": "https://www.thepalacearcade.com.au/"
+  },
+  "Molly's Irish Pub Highgate_488 Beaufort St, Highgate WA 6003, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "Wednesday Pub Quiz at 7pm with drink specials during 5pm Happy Hour",
+    "spenny": "$$",
+    "sourceUrl": "https://www.mollysirishpub.com.au/"
+  },
+  "Molly's East Victoria Park_774 Albany Hwy, East Victoria Park WA 6101, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "Wednesday Pub Quiz at 7pm with drink specials during 5pm Happy Hour",
+    "spenny": "$$",
+    "sourceUrl": "https://www.mollysirishpub.com.au/"
+  },
+  "Midland Tavern_23 Cale St, Midland WA 6056, Australia": {
+    "beerName": "Swan Draught",
+    "price": 9.0,
+    "happyHourPrice": 7.0,
+    "quizDayHappyHour": "4:30pm - 5:30pm",
+    "specials": "Wednesday Quiz Night at 6:30pm; $19.90 Wagyu Beef Burger & $19.80 Senior Specials",
+    "spenny": "$",
+    "sourceUrl": "https://midlandtavern.com.au/our-menu/"
+  },
+  "Long Neck_T3 & T2A, 306 Riverside Dr, East Perth WA 6004, Australia": {
+    "beerName": "Long Neck Draught",
+    "price": 11.0,
+    "happyHourPrice": 9.0,
+    "quizDayHappyHour": "4:00pm - 5:00pm",
+    "specials": "Wednesday Quiz Night at 6:30pm; $69pp Bites, Beers & Burgers package; Thirsty Thursday promos",
+    "spenny": "$$",
+    "sourceUrl": "https://longneckperth.com.au/menus"
+  },
+  "Karalee On Preston_Como Centre, 25 Preston St, Como WA 6152, Australia": {
+    "beerName": "Swan Draught",
+    "price": 10.5,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Wednesday Quiz Night at 7pm; Award-winning Steak Sandwich specials ($28 Steak Sanga & Pint combo)",
+    "spenny": "$$",
+    "sourceUrl": "https://www.thekaralee.com.au/eat-and-drink/"
+  },
+  "Kalamunda Hotel_43 Railway Rd, Kalamunda WA 6076, Australia": {
+    "beerName": "Carlton Draught",
+    "price": 11.5,
+    "happyHourPrice": 9.0,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "Wednesday Quiz Night at 7pm; $15 Fish & Chips special; ALH Pub+ app member offers",
+    "spenny": "$$",
+    "sourceUrl": "https://www.kalamundataphouse.com/"
+  },
+  "Hotel Rottnest_Thompson Bay, 1 Bedford Ave, Rottnest Island WA 6161, Australia": {
+    "beerName": "Carlton Draught",
+    "price": 13.5,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Wednesday Quiz Night at 7pm; beachside food & drink specials",
+    "spenny": "$$$",
+    "sourceUrl": "https://www.hotelrottnest.com.au/"
+  },
+  "Good Company_Shop MJ0265/200 Karrinyup Rd, Karrinyup WA 6018, Australia": {
+    "beerName": "Carlton Draught",
+    "price": 11.5,
+    "happyHourPrice": 9.0,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "Tuesday Quiz Night at 7pm; $25 250g Sirloin Steak special (from 11am) & $15 Baciata Pizzas on Mondays",
+    "spenny": "$$",
+    "sourceUrl": "https://www.goodcompanybar.com.au/whats-on"
+  },
+  "Fenway Subiaco_328 Barker Rd, Subiaco WA 6008, Australia": {
+    "beerName": "House Lager",
+    "price": 11.0,
+    "happyHourPrice": 8.5,
+    "quizDayHappyHour": "4:30pm - 5:30pm",
+    "specials": "Monday Quiz Night at 7pm with $22 Cheeseburger & Chips special; $8.50 House Lager pint add-on",
+    "spenny": "$$",
+    "sourceUrl": "https://www.fenwaysubiaco.com/whatson"
+  },
+  "El Grotto_Shop 5/148 The Esplanade, Scarborough WA 6019, Australia": {
+    "beerName": "Emu Export",
+    "price": 8.5,
+    "happyHourPrice": 6.0,
+    "quizDayHappyHour": "4:00pm - 6:00pm",
+    "specials": "Wednesday Quiz Night at 7:30pm; $5 Tacos from 5pm; $10 Tommy's Margaritas & $6 Lagers during Golden Hour (4-6pm)",
+    "spenny": "$$",
+    "sourceUrl": "https://www.elgrotto.com/menu"
+  },
+  "Durty Nelly's_397 Murray St, Perth WA 6000, Australia": {
+    "beerName": "Guinness",
+    "price": 12.5,
+    "happyHourPrice": 11.0,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "Thursday Quiz Night at 6:30pm; $24 Parmy Night (with chips & salad); Happy Hour 5-6pm ($11 selected pints)",
+    "spenny": "$$",
+    "sourceUrl": "https://durtynellys.com.au/events/happy-hour/"
+  },
+  "Cheeky Monkey Brewing Co_t217 Syren St, Rockingham WA 6168, Australia": {
+    "beerName": "Cheeky Draught",
+    "price": 11.5,
+    "happyHourPrice": 10.0,
+    "quizDayHappyHour": "4:00pm - 5:00pm",
+    "specials": "Tuesday Quiz Night at 7pm; Happiest Hour $10 pints (4pm-5pm); Mon-Wed weeknight specials (5-8pm)",
+    "spenny": "$$",
+    "sourceUrl": "https://cheekymonkey.com.au/pages/rockingham-taphouse"
+  },
+  "Carrington's Bar and Grill_330 Carrington St, Hamilton Hill WA 6163, Australia": {
+    "beerName": "Swan Draught",
+    "price": 9.5,
+    "happyHourPrice": 8.0,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "Wednesday Quiz Night at 7pm; $8.50 Chicken Wings & $25 Mushroom Risotto specials",
+    "spenny": "$",
+    "sourceUrl": "https://www.quandoo.com.au/place/the-carringtons-bar-and-grill-92027/menu"
+  },
+  "Carnaby's_1 Carnaby Close, East Fremantle WA 6158, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": "4:00pm - 5:00pm",
+    "specials": "$20 Burgers from 5pm on Tuesday Quiz Night ($100 bar voucher 1st prize)",
+    "spenny": "$$",
+    "sourceUrl": "https://carnabys.com.au/whats-on/"
+  },
+  "Brewdog Perth_16 Gordon St, West Perth WA 6005, Australia": {
+    "beerName": "Punk IPA",
+    "price": 13.5,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "2-for-1 Pizzas on Tuesday Quiz Night from 6:00pm",
+    "spenny": "$$",
+    "sourceUrl": "https://brewdogperth.com.au/whats-on/"
+  },
+  "Bicton Tavern_1 Point Walter Rd, Bicton WA 6157, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Free Entry Tuesday Quiz Night at 6:30pm ($250 Grand Prize)",
+    "spenny": "$$",
+    "sourceUrl": "https://bictontavern.com.au/whats-on/"
+  },
+  "Benny's_10-12 South Terrace, Fremantle WA 6160, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Thursday Trivia Night at 7:30pm",
+    "spenny": "$$",
+    "sourceUrl": "https://bennys.com.au/"
+  },
+  "Bad Apples_6/16 Riseley St, Ardross WA 6153, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Wednesday Pub Quiz Night at 7:00pm",
+    "spenny": "$$",
+    "sourceUrl": "https://www.badapplesbar.com.au/"
+  },
+  "JB O’Reilly’s_99 Cambridge St, West Leederville WA 6007, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": 10.5,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "$30 Monday Roast & Pint Deal, Monday Pub Quiz from 6:00pm",
+    "spenny": "$$",
+    "sourceUrl": "https://jboreillys.com.au/events/happy-hour/"
+  },
+  "Bassendean Hotel_25 Old Perth Rd, Bassendean WA 6054, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": 11.0,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "Connolly's Sports Bar Wednesday Pub Trivia from 7:00pm",
+    "spenny": "$$",
+    "sourceUrl": "https://thebassendeanhotel.com.au/events/happy-hour/"
+  },
+  "Ye Olde Narrogin Inne_2 S Western Hwy, Armadale WA 6112, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Monthly Monday Fame Trivia Night from 7:00pm (Free Entry)",
+    "spenny": "$$",
+    "sourceUrl": "https://thenarry.com/events/"
+  },
+  "Kalamunda Tap House_Corner Haynes Street and, Central Mall, Kalamunda WA 6076, Australia": {
+    "beerName": "Beerfarm Lager",
+    "price": 11.0,
+    "happyHourPrice": 7.7,
+    "quizDayHappyHour": "3:00pm - 5:00pm",
+    "specials": "Monthly Tuesday Quiz Night from 7:00pm ($10 ticket includes 1 free drink up to $10 value)",
+    "spenny": "$$",
+    "sourceUrl": "https://www.kalamundataphouse.com/"
+  },
+  "Dome Koombana Bay_1/21 Holman St, Bunbury WA 6229, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Tuesday Community Fame Trivia Night from 7:00pm",
+    "spenny": "$$",
+    "sourceUrl": "https://www.domecoffees.com/locations/dome-bunbury-koombana-bay"
+  },
+  "Burlington Hotel_51 Victoria St, Bunbury WA 6230, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "Thursday Quiz Night at 7:30pm",
+    "spenny": "$$",
+    "sourceUrl": "https://burlingtonhotel.com.au/"
+  },
+  "Willi&#x27;s Bar @ The Royal_531 Wellington St, Perth WA 6000, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": 10.0,
+    "quizDayHappyHour": "4:00pm - 5:00pm",
+    "specials": "$10 Negronis all day every day, Tuesday Quiz Night 6:30pm–8:30pm ($75/$50 bar vouchers)",
+    "spenny": "$$",
+    "sourceUrl": "https://willisbar.com.au/trivia-tuesday"
+  },
+  "Whale and Ale_Key Largo Dr & Ocean Keys Boulevard, 34 Key Largo Dr, Clarkson WA 6030, Australia": {
+    "beerName": "House Draught",
+    "price": 10.0,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Wednesday Quiz Meisters Trivia Night at 7:00pm",
+    "spenny": "$$",
+    "sourceUrl": "https://www.quizmeisters.com/venues/wa-whale-and-ale"
+  },
+  "The Rechabite_224 William St, Northbridge WA 6003, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": 8.0,
+    "quizDayHappyHour": "6:00pm - 7:00pm",
+    "specials": "Tuesday Quiz Night; Brain Fried Trivia drink specials ($8 Pints, $10 Spirits, $12 Negroni) & food specials ($15 Korean Fried Chicken Sandwich, $30 Burger + Fries & Pint Combo)",
+    "spenny": "$$",
+    "sourceUrl": "https://www.therechabite.com.au/whats-on/goodwill-club/brain-fried-trivia"
+  },
+  "The Left Bank_15 Riverside Rd, East Fremantle WA 6158, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Tuesday Night Trivia Quiz Night, Winter Specials ($19 Burgers and Pizzas)",
+    "spenny": "$$",
+    "sourceUrl": "https://www.leftbank.com.au/specials/"
+  },
+  "The Leederville Hotel_2/742 Newcastle St, Leederville WA 6007, Australia": {
+    "beerName": "Leedy Local Lager",
+    "price": 9.0,
+    "happyHourPrice": 10.0,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "Tuesday Trivia Night from 7:00pm; Footy/Weeknight Specials ($20 1kg Wings, $9 Leedy Local Lager Pints)",
+    "spenny": "$$",
+    "sourceUrl": "https://www.theleedervillehotel.com.au/events/trivia-night"
+  },
+  "The Globe_495/497 Wellington St, Perth WA 6000, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": 11.0,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "Wednesday Survey Says Quiz Night; $15 Tacos and $16 Margaritas",
+    "spenny": "$$",
+    "sourceUrl": "https://theglobeperth.com.au/events/happy-hour/"
+  },
+  "The Foreshore Hangout Lounge_36 Foreshore Dr, Geraldton WA 6530, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Thursday Quiz Meisters Trivia Night at 6:30pm",
+    "spenny": "$$",
+    "sourceUrl": "https://www.quizmeisters.com/venues/wa-the-foreshore-hangout-lounge"
+  },
+  "The Elford_639 Beaufort St, Mount Lawley WA 6050, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": 10.0,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "Wednesday Parmi Night ($20 Parmi with Chips & Salad) & Wednesday Quiz Night",
+    "spenny": "$$",
+    "sourceUrl": "https://www.theelfordhotel.com.au/weekly-specials"
+  },
+  "The Coogee Boathouse_Unit 3/72 Pantheon Ave, North Coogee WA 6163, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Tuesday Quiz Meisters Trivia Night at 6:30pm; Tuesday $25 Mussels Special (12pm–8:30pm)",
+    "spenny": "$$",
+    "sourceUrl": "https://coogeeboathouse.com/our-menu/"
+  },
+  "The Claremont Hotel_1 Bay View Terrace, Claremont WA 6010, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": 11.0,
+    "quizDayHappyHour": "4:30pm - 5:30pm",
+    "specials": "Steak & Quiz Wednesdays: $26 Rump or $37 Sirloin with chips & salad all day",
+    "spenny": "$$",
+    "sourceUrl": "https://theclaremont.com.au/events/steak-quiz-wednesdays/"
+  },
+  "The Bayswater Hotel_78-80 Railway Parade, Bayswater WA 6053, Australia": {
+    "beerName": "Swan Draught",
+    "price": 10.0,
+    "happyHourPrice": 8.0,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "Wednesday Quiz Night at 7pm; Tuesday Steak Night & $2 Meat Raffle tickets with free meal entry",
+    "spenny": "$",
+    "sourceUrl": "https://www.bayswaterhotel.com.au/whats-on-2"
+  },
+  "Spinifex Hotel Derby_Spinifex Motel, 6 Clarendon St, Derby WA 6728, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "$28 Parmi Night (includes a free schooner of beer or glass of wine)",
+    "spenny": "$$",
+    "sourceUrl": "https://spinifexhotel.com.au/specials-events/"
+  },
+  "Spinifex Brewery Cable Beach_7 Sanctuary Rd, Cable Beach WA 6726, Australia": {
+    "beerName": "Kimberley Crisp",
+    "price": 12.0,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Monday Night Trivia prizes include vouchers ($250/$150/$100) and beer rounds",
+    "spenny": "$$",
+    "sourceUrl": "https://spinifexbrewery.com.au/kimberley-crisp-pints-12-dollars/"
+  },
+  "Otherside of Nowhere_25 Harrogate St, West Leederville WA 6007, Australia": {
+    "beerName": "Otherside Festive Ale",
+    "price": 12.0,
+    "happyHourPrice": 9.0,
+    "quizDayHappyHour": "4:00pm - 5:00pm",
+    "specials": "Thursday Quiz Night at 7pm; Happy Hour 4-5pm; 48-hr fermented sourdough pizzas & Local Legends specials",
+    "spenny": "$$",
+    "sourceUrl": "https://othersidebrewing.com.au/pages/the-brewhouse"
+  },
+  "Northbridge Brewing Co_44 Lake St, Northbridge WA 6003, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": 5.5,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "Thursday Night Quiz with Quiz Meisters",
+    "spenny": "$$",
+    "sourceUrl": "https://www.northbridgebrewingco.com.au/"
+  },
+  "Henry M&#x27;s_27 Welwyn Ave, Manning WA 6152, Australia": {
+    "beerName": "Carlton Draught",
+    "price": 11.5,
+    "happyHourPrice": 9.0,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "Wednesday Quiz Night at 6pm; Wednesday & Thursday short order dinner specials",
+    "spenny": "$$",
+    "sourceUrl": "https://www.henryms.com.au/menus"
+  },
+  "Gage Roads Brew Co_Peter Hughes Dr, Fremantle WA 6160, Australia": {
+    "beerName": "Single Fin Summer Ale",
+    "price": 12.0,
+    "happyHourPrice": 9.0,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "Wednesday Quiz Night at 7pm; $15 Pizzas Mon-Thu for students with NDU card",
+    "spenny": "$$",
+    "sourceUrl": "https://www.fremantlechamber.com.au/fcc-student-discount-offers"
+  },
+  "Ciao Dandy_FC0208, Karrinyup Shopping Centre, 200 Karrinyup Rd, Karrinyup WA 6018, Australia": {
+    "beerName": "Peroni Nastro Azzurro",
+    "price": 12.5,
+    "happyHourPrice": 9.0,
+    "quizDayHappyHour": "4:00pm - 6:00pm",
+    "specials": "Thursday Quiz Night at 7pm; 400g Bistecca T-bone steak, crispy potatoes & sauce for $35 all day",
+    "spenny": "$$",
+    "sourceUrl": "https://dandelionperth.com.au/menu"
+  },
+  "Blasta Brewing_102 Goodwood Pde., Burswood WA 6100, Australia": {
+    "beerName": "Steady Head Session Pale Ale",
+    "price": 12.5,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Tuesday Quiz Night in the Beerhall (11:30am-Late); $10-$12 craft beer pints & $25 brewery mains",
+    "spenny": "$$",
+    "sourceUrl": "https://www.blastabrewing.com/"
+  },
+  "Beach St Co_123 Beach St, Fremantle WA 6160, Australia": {
+    "beerName": "Swan Draught",
+    "price": 11.0,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Wednesday Quiz Night from 6:30pm; $18-$22 coastal pub mains",
+    "spenny": "$$",
+    "sourceUrl": "https://quizfinder.com.au/event/beach-st-co-wa/"
+  },
+  "Ball &amp; Chain_Marine Terrace &, 46-54 Collie St, Fremantle WA 6160, Australia": {
+    "beerName": "Swan Draught",
+    "price": 11.5,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Thursday Quiz Night at 7:00pm; craft beer tap list & $20 pub classics",
+    "spenny": "$$",
+    "sourceUrl": "https://quizfinder.com.au/event/ball-amp-chain-wa/"
+  },
+  "Baillie Hill_15 Hill View Terrace, East Victoria Park WA 6101, Australia": {
+    "beerName": "Berwick Lager",
+    "price": 11.5,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Tuesday Quiz Night at 7:00pm in the precinct; $22-$25 dining & bar specials at Milly's Acre & Berwick Bar",
+    "spenny": "$$",
+    "sourceUrl": "https://www.bailliehill.com.au/"
+  },
+  "The Pipers Inn Rockingham_T215C, Syren St, Rockingham WA 6168, Australia": {
+    "beerName": "Tennent's Lager",
+    "price": 9.5,
+    "happyHourPrice": 7.0,
+    "quizDayHappyHour": "4:00pm - 5:00pm",
+    "specials": "Thursday $15 Pie Night All Day & Thursday Quiz Night from 7:00pm",
+    "spenny": "$",
+    "sourceUrl": "https://perthisok.com/news/perth-meal-deals-weekly-specials/"
+  },
+  "The Pipers Inn Mandurah_8/4-10 Old Coast Rd, Halls Head WA 6210, Australia": {
+    "beerName": "Tennent's Lager",
+    "price": 9.5,
+    "happyHourPrice": 7.0,
+    "quizDayHappyHour": "4:00pm - 5:00pm",
+    "specials": "Thursday $15 Pie Night All Day & Thursday Quiz Night from 7:00pm",
+    "spenny": "$",
+    "sourceUrl": "https://perthisok.com/news/perth-meal-deals-weekly-specials/"
+  },
+  "Broken Hill Hotel_314 Albany Hwy, Victoria Park WA 6100, Australia": {
+    "beerName": "Carlton Draught",
+    "price": 11.0,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Thursday Quiz Night at 7:00pm; $20 Thursday Steak/Burger specials",
+    "spenny": "$$",
+    "sourceUrl": "https://brokenhillhotel.com.au/"
+  },
+  "Sandy Cove Tavern_146 S Yunderup Rd, South Yunderup WA 6208, Australia": {
+    "beerName": "Emu Export",
+    "price": 9.0,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Thursday Quiz Night at 7:00pm; $18-$22 tavern meal specials",
+    "spenny": "$",
+    "sourceUrl": "https://pinjarra.destinationmurray.com.au/stories/work-up-a-thirst/"
+  },
+  "The Suburban Bar_Unit 4/1 Champion Dr, Bertram WA 6167, Australia": {
+    "beerName": "Swan Draught",
+    "price": 9.5,
+    "happyHourPrice": 8.0,
+    "quizDayHappyHour": "4:00pm - 6:00pm",
+    "specials": "Tuesday Quiz Night at 7:00pm; 4-6pm Happy Hour drink deals & $18 Parmi specials",
+    "spenny": "$",
+    "sourceUrl": "https://suburbanbars.com.au/"
+  },
+  "Boab Tavern_107 Dundas Road, High Wycombe, Perth,WA, 6057": {
+    "beerName": "Emu Export",
+    "price": 9.0,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Wednesday Quiz Night at 7:00pm; $18-$20 Wednesday meal specials",
+    "spenny": "$",
+    "sourceUrl": "https://boabtavern.com.au/"
+  },
+  "Live Lounge_Wanneroo Central, shop 47/950 Wanneroo Rd, Wanneroo WA 6065": {
+    "beerName": "Swan Draught",
+    "price": 9.0,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Monday Quiz Night at 7:00pm; $15 Monday food specials",
+    "spenny": "$",
+    "sourceUrl": "https://livelounge.com.au/wp-content/uploads/2024/04/Live-Lounge_Specials-Menu.pdf"
+  },
+  "Mojo's Bar_237 Queen Victoria St, North Fremantle WA 6159": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": 10.0,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "$10 table fee for quiz night (up to 8 people); $10 Musiquiz live band entry on 1st Wed of month",
+    "spenny": "$$",
+    "sourceUrl": "https://quizfinder.com.au/event/mojos-bar/"
+  },
+  "The Cornerstone Tavern_Kingsbridge Blvd &amp; Wadhurst Rd, Butler WA 6036": {
+    "beerName": "Carlton Dry",
+    "price": 8.5,
+    "happyHourPrice": 8.5,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "$15 Parmi Special on Tuesdays; $8.50 Carlton Dry pints on Quiz Night",
+    "spenny": "$$",
+    "sourceUrl": "https://www.facebook.com/thecornerstonetavern/"
+  },
+  "The Pav Restaurant and Bar_Peter Anderson Dr, Australind WA 6233": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Family friendly weekly quiz night with dinner specials",
+    "spenny": "$$",
+    "sourceUrl": "https://www.lsathepav.com/event-details-registration/all-things-disney-quiz-night"
+  },
+  "The Old Synagogue Fremantle_92 South Terrace Fremantle WA 6160": {
+    "beerName": "Swan Draught",
+    "price": null,
+    "happyHourPrice": 9.0,
+    "quizDayHappyHour": "4:00pm - 5:00pm",
+    "specials": "$18 Burger special from 5pm on Quiz Night",
+    "spenny": "$$$",
+    "sourceUrl": "https://www.theoldsynagogue.com.au/quiznight/"
+  },
+  "The Beaufort_521-525 Beaufort Street Highgate WA 6003": {
+    "beerName": "Gage Roads Single Fin",
+    "price": null,
+    "happyHourPrice": 9.0,
+    "quizDayHappyHour": "4:00pm - 6:00pm",
+    "specials": "$9 Happy hour pints (Gage Roads Single Fin, Swan Draught, Great Northern, Bulmers)",
+    "spenny": "$$$",
+    "sourceUrl": "https://www.thebeaufort.com.au/whats-on/"
+  },
+  "Stories_Yagan Square, 376-420 Wellington Street, Perth WA 6000": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "$20 Burger special on Tuesday Quiz Night",
+    "spenny": "$$$",
+    "sourceUrl": "https://www.stories.au/whatsoninperth/"
+  },
+  "The Station South Perth_1 Mends Street, South Perth, WA 6151": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": 9.0,
+    "quizDayHappyHour": "4:00pm - 5:00pm",
+    "specials": "$20 Burger special on Monday Trivia Night",
+    "spenny": "$$$",
+    "sourceUrl": "https://www.thestationsouthperth.com.au/trivianight/"
+  },
+  "Newman Hotel_1401 Newman Drive, Newman WA": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": 10.0,
+    "quizDayHappyHour": "6:00pm - 7:00pm",
+    "specials": "$10 Happy hour pints at the Purple Pub",
+    "spenny": "$$",
+    "sourceUrl": "https://www.newmanhotel.com.au/purple-pub"
+  },
+  "The Brighton Mandurah_10/12 Mandurah Terrace, Mandurah WA 6210": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": 8.0,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "$18 Parmi Day on Tuesdays",
+    "spenny": "$$",
+    "sourceUrl": "https://www.thebrightonmandurah.com/menu"
+  },
+  "The Lucky Shag Waterfront Bar_1 Barrack Square, Perth WA 6000": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": 8.0,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "$20 Lunch specials; match day deals (2 Pints Peroni + Pizza $50)",
+    "spenny": "$$",
+    "sourceUrl": "https://www.facebook.com/theluckyshagwaterfrontbar/"
+  },
+  "The Sporting Globe Floreat_Floreat Forum, Shop 94 Howtree Pl, Floreat 6014": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": 8.0,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "$15 Wings & Pint / Half Price Wings & Pints specials",
+    "spenny": "$$",
+    "sourceUrl": "https://www.sportingglobe.com.au/whatson/happy-hour-fl/floreat/"
+  },
+  "Whitfords Brewing Co_Dining &amp; Entertainment Hub Westfield Whitford City, Hillarys WA 6025": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Members specials & cocktail deals on Thursday Quiz Night",
+    "spenny": "$$",
+    "sourceUrl": "https://www.whitfordsbrewingco.com.au/events/"
+  },
+  "Social House_5/227 Main St, Osborne Park WA 6017": {
+    "beerName": "Coors",
+    "price": 10.0,
+    "happyHourPrice": null,
+    "quizDayHappyHour": "4:00pm - 6:00pm",
+    "specials": "$5 Schooners during Happy Hour (4-6pm)",
+    "spenny": "$$",
+    "sourceUrl": "https://www.studyperth.com.au/blogs-news/perth-quiz-night-guide/"
+  },
+  "Highway Hotel_Forrest Ave &amp;, Spencer St, Bunbury WA 6230": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Scratch & Win promos on $20+ food/drinks spend",
+    "spenny": "$$",
+    "sourceUrl": "https://www.thehighwayhotel.com.au/"
+  },
+  "Peel Alehouse_8 Guava Way, Halls Head WA 6210": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Weekly pub specials and food promos",
+    "spenny": "$$",
+    "sourceUrl": "https://www.peelalehouse.com.au/whats-on"
+  },
+  "Bark Subiaco_502 Hay St, Subiaco WA 6008": {
+    "beerName": "Pale Ale",
+    "price": 10.0,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "$22 Steak Sandwich, $10 Pale Ales, $15 Negronis on Thursday Quiz Night",
+    "spenny": "$$",
+    "sourceUrl": "https://www.barksubiaco.com.au/quiz-night"
+  },
+  "Burger Baby_2 Andrews Way, Margaret River": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Weekly burger & craft beer specials",
+    "spenny": "$$",
+    "sourceUrl": "https://www.burgerbabymargs.com/"
+  },
+  "Tower Hotel Kalgoorlie_Crn Maritana &amp; Bourke Streets, Kalgoorlie": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Weekly pub specials & trivia prizes",
+    "spenny": "$$",
+    "sourceUrl": "https://www.towerhotel.com.au/"
+  },
+  "Fat Boyz Small Bar_1303 Hay Street, West Perth": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Small bar drink & snack specials",
+    "spenny": "$$",
+    "sourceUrl": "https://www.facebook.com/mblfoodandpackaging/"
+  },
+  "Phat Brew Club_City West Complex, 102 Railway St, West Perth": {
+    "beerName": "6005 Lager",
+    "price": 8.0,
+    "happyHourPrice": 8.0,
+    "quizDayHappyHour": null,
+    "specials": "$8 Pints of 6005 Lager, $20 Burger & 6005 Lager Pint deal",
+    "spenny": "$$",
+    "sourceUrl": "https://citywest.net.au/store/phat-brew-club/"
+  },
+  "Eaton Tavern_1 Albatross Cres, Eaton": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "$10 Weekly Specials, extended happy hours, $1 meat raffle Thursdays",
+    "spenny": "$",
+    "sourceUrl": "https://www.eatontavern.com.au/whats-on-1"
+  },
+  "APIWA Club Rooms_Rear Unit 6/1270-1274 Albany Hwy, Cannington": {
+    "beerName": "House Draught",
+    "price": 8.5,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Thursday Quiz Night at 7:00pm; budget club room drink & snack prices",
+    "spenny": "$",
+    "sourceUrl": "https://apiwa.com.au/venue-hire/"
+  },
+  "The Sporting Globe Mandurah_Mandurah Forum  330 Pinjarra Rd Mandurah 6210": {
+    "beerName": "Swan Draught",
+    "price": 12.0,
+    "happyHourPrice": 9.9,
+    "quizDayHappyHour": "10:00am - 10:00pm",
+    "specials": "$19.9 MVP Parmas & $23.9 Loaded Parmas on Wednesdays",
+    "spenny": "$$",
+    "sourceUrl": "https://www.sportingglobe.com.au/menu/7-day-line-up/wednesday/mandurah/"
+  },
+  "The Sporting Globe Rockingham_Rockingham Shopping Centre  Syren Street ROCKINGHAM 6168": {
+    "beerName": "Swan Draught",
+    "price": 12.0,
+    "happyHourPrice": 9.9,
+    "quizDayHappyHour": "10:00am - 10:00pm",
+    "specials": "$19.9 MVP Parmas & $23.9 Loaded Parmas on Wednesdays",
+    "spenny": "$$",
+    "sourceUrl": "https://www.sportingglobe.com.au/locations/rockingham"
+  },
+  "Cobblers Tavern_4 Olive Rd Falcon 6210": {
+    "beerName": "Carlton Draught",
+    "price": 11.5,
+    "happyHourPrice": 8.5,
+    "quizDayHappyHour": "4:30pm - 5:30pm",
+    "specials": "Tuesday Trivia Night Specials",
+    "spenny": "$$",
+    "sourceUrl": "https://cobblerstavern.com.au/events/happy-hour/"
+  },
+  "Hanks Bar & Bistro_Lot 504 Ennis Avenue & Granges Drive Cooloongup 6168": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Tuesday Quiz Night Specials",
+    "spenny": "$",
+    "sourceUrl": "https://www.hanksbarandbistro.com.au/entertainement"
+  },
+  "Port Kennedy RSL_27 Paxton Way Port Kennedy 6172": {
+    "beerName": "Emu Export",
+    "price": 8.5,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "RSL Monday Quiz Night & Meal Specials",
+    "spenny": "$",
+    "sourceUrl": "https://quizfinder.com.au/event/port-kennedy-rsl/"
+  },
+  "The Kwinana Local_1 Chisham Avenue Kwinana 6167": {
+    "beerName": "Swan Draught",
+    "price": 10.0,
+    "happyHourPrice": null,
+    "quizDayHappyHour": "4:30pm - 5:30pm",
+    "specials": "Wednesday Drink & Shot Specials",
+    "spenny": "$",
+    "sourceUrl": "https://www.facebook.com/TheKwinanaLocal/"
+  },
+  "The Lakelands_Corner Barrine Road and Seppings Parade Lakelands 6180": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Tuesday Quiz & Meal Specials",
+    "spenny": "$$",
+    "sourceUrl": "https://lakelands.com.au/stores/the-lakelands-tavern/"
+  },
+  "Empire Bar_220 Great Eastern Hwy, Lathlain WA 6100": {
+    "beerName": "Carlton Draught",
+    "price": 12.0,
+    "happyHourPrice": null,
+    "quizDayHappyHour": "12:00pm - 5:00pm",
+    "specials": "Thursday Quiz & Daily Drink Specials",
+    "spenny": "$$",
+    "sourceUrl": "https://empirebar.com.au/whats-on/"
+  },
+  "Cottesloe Beach Hotel_104 Marine Parade, Cottesloe WA 6011": {
+    "beerName": "Carlton Draught",
+    "price": 13.5,
+    "happyHourPrice": 9.0,
+    "quizDayHappyHour": "4:00pm - 6:00pm",
+    "specials": "Thursday Verandah Bar Trivia",
+    "spenny": "$$$",
+    "sourceUrl": "https://cottesloebeachhotel.com.au/trivia-night/"
+  },
+  "The Hampden Hotel_156 Hampden Rd, Nedlands WA 6009": {
+    "beerName": "Carlton Dry",
+    "price": 11.5,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Thursday Student & Trivia Specials",
+    "spenny": "$$",
+    "sourceUrl": "https://thehampden.com.au/"
+  },
+  "The Carine_493 Beach Rd, Duncraig WA 6023": {
+    "beerName": "Swan Draught",
+    "price": 12.0,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Wednesday Quiz Night & Scratch & Win Promos",
+    "spenny": "$$",
+    "sourceUrl": "https://www.thecarine.com.au/whats-on"
+  },
+  "Paddington Ale House_141 Scarborough Beach Rd, Mount Hawthorn WA 6016": {
+    "beerName": "Carlton Draught",
+    "price": 12.0,
+    "happyHourPrice": null,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "Wednesday Quiz Night & Craft Beer Deals",
+    "spenny": "$$",
+    "sourceUrl": "https://paddo.com.au/events/happy-hour/"
+  },
+  "The Galway Hooker_Tenancy 3/148 The Esplanade, Scarborough WA 6019": {
+    "beerName": "Guinness",
+    "price": 13.5,
+    "happyHourPrice": null,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "Tuesday Quiz Night Specials",
+    "spenny": "$$",
+    "sourceUrl": "https://thegalwayhooker.com.au/events/happy-hour/"
+  },
+  "Otherside Brewing Co_Blaikie Street, Myaree, WA 6154": {
+    "beerName": "Otherside Festive Ale",
+    "price": 12.0,
+    "happyHourPrice": 9.0,
+    "quizDayHappyHour": "4:00pm - 5:00pm",
+    "specials": "Wednesday Brewhouse Quiz & Craft Pint Specials",
+    "spenny": "$$",
+    "sourceUrl": "https://othersidebrewing.com.au/pages/the-brewhouse"
+  },
+  "The Kardinya Tavern_17 South St, Kardinya WA 6163": {
+    "beerName": "Swan Draught",
+    "price": 10.5,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Tuesday Quiz Night & Meal Deals",
+    "spenny": "$",
+    "sourceUrl": "https://quizfinder.com.au/event/the-kardinya-tavern/"
+  },
+  "Varsity Northbridge_94 Aberdeen St, Northbridge WA 6003": {
+    "beerName": "Varsity Lager",
+    "price": 11.0,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Monday Quiz Night & Student Discount Specials",
+    "spenny": "$",
+    "sourceUrl": "https://www.varsity.com.au/menu"
+  },
+  "8 Knots_110 Riverside Rd, East Fremantle WA 6158": {
+    "beerName": "Swan Draught",
+    "price": 12.5,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Monday Quiz Night Specials",
+    "spenny": "$$",
+    "sourceUrl": "https://8knots.com.au/whats-on/"
+  },
+  "The Court_50 Beaufort St, Perth WA 6000": {
+    "beerName": "Court Lager",
+    "price": 11.5,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Thursday Quiz Night & Student Specials",
+    "spenny": "$$",
+    "sourceUrl": "https://thecourt.com.au/events/happy-hour/"
+  },
+  "Wannabrew Bar & Grill_Shop 47 Wanneroo Central, 950 Wanneroo Rd, Wanneroo WA 6065": {
+    "beerName": "Swan Draught",
+    "price": 9.0,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Thursday Quiz Night at 7:00pm; $15-$18 bar & grill meal deals",
+    "spenny": "$",
+    "sourceUrl": "https://quizfinder.com.au/event/wannabrew-bar-grill/"
+  },
+  "The Bayswater Hotel_78-80 Railway Parade, Bayswater WA 6053": {
+    "beerName": "Swan Draught",
+    "price": 10.0,
+    "happyHourPrice": 8.0,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "Wednesday Quiz Night at 7pm; Tuesday Steak Night & $2 Meat Raffle tickets with free meal entry",
+    "spenny": "$",
+    "sourceUrl": "https://www.bayswaterhotel.com.au/whats-on-2"
+  },
+  "The Pipers Inn - Currambine_1244 Marmion Ave, Currambine WA 6028": {
+    "beerName": "Tennent's Lager",
+    "price": 9.5,
+    "happyHourPrice": 7.0,
+    "quizDayHappyHour": "11:00am - 12:00pm, 4:00pm - 5:00pm",
+    "specials": "$9.50 All Day Pints deal on selected taps",
+    "spenny": "$",
+    "sourceUrl": "https://www.thepipersinn.com.au/"
+  },
+  "The Morris_2 Morris Rd, Innaloo WA 6018": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": 9.0,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "$20 Daily Food Specials & Footy Jugs",
+    "spenny": "$$",
+    "sourceUrl": "https://www.themorrishotel.com.au/"
+  },
+  "The Thornlie_336 Spencer Rd, Thornlie WA 6108": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "$25 250g Rump Steak special",
+    "spenny": "$",
+    "sourceUrl": "https://thornlietavern.com/menu/"
+  },
+  "7 Mile Bar & Bistro_501 Wanneroo Rd, Balcatta WA 6021": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "$20 Steak Sandwich on Tuesday Quiz Night",
+    "spenny": "$$",
+    "sourceUrl": "https://7milebar.com.au/"
+  },
+  "Kalamunda Tap House_Corner Haynes Street and, Central Mall, Kalamunda WA": {
+    "beerName": "Beerfarm Lager",
+    "price": 11.0,
+    "happyHourPrice": 7.7,
+    "quizDayHappyHour": "3:00pm - 5:00pm",
+    "specials": "Weekly food specials on blackboard",
+    "spenny": "$$",
+    "sourceUrl": "https://www.kalamundataphouse.com/"
+  },
+  "The Russell Inn_137A Russell St, Morley WA 6062": {
+    "beerName": "Swan Draught",
+    "price": 8.9,
+    "happyHourPrice": 6.5,
+    "quizDayHappyHour": "4:30pm - 5:30pm",
+    "specials": "Daily lunch specials & $5 select pint offers",
+    "spenny": "$",
+    "sourceUrl": "https://therussellinnbar.com/"
+  },
+  "The Dunsborough Tavern_2 Dunsborough Pl, Dunsborough WA 6281": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "pub+ member drink & food specials",
+    "spenny": "$$",
+    "sourceUrl": "https://www.thedunsborough.com.au/whats-on"
+  },
+  "The White Star Hotel_72 Stirling Terrace, Albany WA 6330": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Weekly lunch specials & modern pub dining",
+    "spenny": "$$",
+    "sourceUrl": "https://autoreserve.com/en/restaurants/M9xLWcmFGLUWpBh6a87n"
+  },
+  "Kingsley Tavern_90 Kingsley Dr, Kingsley WA 6026": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": 8.5,
+    "quizDayHappyHour": "4:30pm - 5:30pm",
+    "specials": "Daily chef specials in the beer garden",
+    "spenny": "$$",
+    "sourceUrl": "https://thekingsleytavern.com.au/menus-and-specials/"
+  },
+  "The B Bar Rockingham_EX008, 20 Settlers Ave, Baldivis, WA, 6171": {
+    "beerName": "Carlton Dry",
+    "price": 9.5,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Tuesday Free QuizzaMe Quiz Night at 7:00pm with $50 bar voucher prizes & $15 meal deals",
+    "spenny": "$",
+    "sourceUrl": "https://www.thebbarbaldivis.com/menus"
+  },
+  "Leederville Hotel_742 Newcastle St, Leederville WA 6007": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": 10.0,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "Tuesday Weeknight Specials sharing platters for Trivia Night",
+    "spenny": "$$",
+    "sourceUrl": "https://www.theleedervillehotel.com.au/events/weekly-specials"
+  },
+  "Johnny Fox'S_205 James St, Northbridge WA 6003": {
+    "beerName": "Guinness",
+    "price": 12.0,
+    "happyHourPrice": 10.0,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "$9 Burgers on Wednesday Quiz Night",
+    "spenny": "$$",
+    "sourceUrl": "https://www.lavishhabits.com.au/series/happy-hour-at-johnny-foxs/"
+  },
+  "Heights Bar and Bistro_2/200 Mirrabooka Ave, Alexander Heights WA 6064, Australia": {
+    "beerName": "Carlton Draught",
+    "price": 10.5,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Wednesday Quiz Night at 7:00pm; $18-$22 bistro specials",
+    "spenny": "$$",
+    "sourceUrl": "https://alexheights.com.au/store-info/the-heights-bar-bistro/"
+  },
+  "The Brisbane Hotel (Perth)_292 Beaufort St, Perth WA 6003, Australia": {
+    "beerName": "Carlton Draught",
+    "price": 11.5,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Thursday Quiz Night from 7:00pm; $20 Thursday Burger/Steak specials in the beer garden",
+    "spenny": "$$",
+    "sourceUrl": "https://www.thebrisbanehotel.com.au/"
+  },
+  "The Seasonal Brewing Co._175 Guildford Rd, Maylands WA 6051, Australia": {
+    "beerName": "Seasonal House Lager",
+    "price": 12.0,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Thursday $30 Burger & Pint Quiz Night Special",
+    "spenny": "$$",
+    "sourceUrl": "https://www.seasonalbrewing.beer/brewpub"
+  },
+  "The Inglewood Hotel_803 Beaufort St, Perth WA 6052, Australia": {
+    "beerName": "Swan Draught",
+    "price": 8.0,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Wednesday Verandah Quiz Night: $50 1st prize, $25 2nd prize, free jug 3rd prize",
+    "spenny": "$$",
+    "sourceUrl": "https://inglewoodhotel.com.au/event/quiz-night/"
+  },
+  "The Federal Hotel_23 William St, Fremantle WA 6160, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "$25 Parmi with chips & salad on Wednesday Quiz Night ($250 top quiz prize)",
+    "spenny": "$$",
+    "sourceUrl": "https://federalhotelfreo.com.au/whats-on-2-0/"
+  },
+  "Public House_263 Adelaide Terrace, Perth WA, Australia": {
+    "beerName": "Guinness",
+    "price": 12.0,
+    "happyHourPrice": 10.0,
+    "quizDayHappyHour": "4:30pm - 5:30pm",
+    "specials": "$10 Pint of Guinness & $14 Happy Hour Bites (4:30-5:30pm Tue-Fri)",
+    "spenny": "$$",
+    "sourceUrl": "https://www.publichouseperth.com.au/"
+  },
+  "Indian Ocean Hotel_23 Hastings St, Scarborough WA 6019, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Free jug of beer or bottle of wine for teams booking before 5pm on quiz night",
+    "spenny": "$$",
+    "sourceUrl": "https://www.destinationperth.com.au/event/quiz-night-at-indian-ocean-hotel/3797/"
+  },
+  "The Balmoral Hotel_901 Albany Hwy, Victoria Park WA 6100": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Weekly food & drink specials via Pub+ app; $50 voucher quiz prizes",
+    "spenny": "$$",
+    "sourceUrl": "https://www.thebalmoral.com.au/bar"
+  },
+  "Bentley Hotel_1120-1124 Albany Hwy, Bentley WA 6102": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": 10.0,
+    "quizDayHappyHour": "4:00pm - 6:00pm",
+    "specials": "$10 Happy Hour Pints; Student friendly deals near Curtin Uni",
+    "spenny": "$",
+    "sourceUrl": "https://bentleyhotel.com.au/events/happy-hour/"
+  },
+  "Haynes Bar and Grill_Armadale Road &amp; Eighth Road, Armadale, WA 6112, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "$20 Wednesday Meal Specials",
+    "spenny": "$",
+    "sourceUrl": "https://haynesbarandgrill.com.au/whats-on/"
+  },
+  "Newpark Bar and Bistro_61 Templeton Cres, Girrawheen WA 6064, Australia": {
+    "beerName": "Emu Export",
+    "price": 8.5,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Wednesday Quiz Night at 7:00pm; $15-$18 tavern meal specials",
+    "spenny": "$",
+    "sourceUrl": "https://thehappiesthour.com/venues/perth/newpark-tavern"
+  },
+  "The Quarie Bar &amp; Brasserie_2 Macquarie Blvd, Hammond Park WA 6164, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Monday Burger Night Specials",
+    "spenny": "$$",
+    "sourceUrl": "https://thequarie.com.au/"
+  },
+  "Clancys Fish Pub (Canning Bridge)_903 Canning Hwy, Applecross WA 6153": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": 9.0,
+    "quizDayHappyHour": "4:00pm - 6:00pm",
+    "specials": "$9 Pints during weekday Happy Hour (4-6pm)",
+    "spenny": "$$",
+    "sourceUrl": "https://www.clancysfishpub.com.au/canning-bridge"
+  },
+  "Vale Bar and Brasserie_281 Beeliar Drive, Yangebup WA 6164, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Tuesday Parmi Night Specials",
+    "spenny": "$$",
+    "sourceUrl": "https://thevalebar.com.au/whats-on/"
+  },
+  "Hyde Park Hotel_331 Bulwer St &, Fitzgerald St, West Perth WA 6005": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Tuesday Steak Night Special on Quiz Night",
+    "spenny": "$$",
+    "sourceUrl": "https://www.hydeparkhotel.com.au/whats-on"
+  },
+  "7th Ave Bar &amp; Restaurant_74 Helena St, Midland WA 6056": {
+    "beerName": "Swan Draught",
+    "price": 8.0,
+    "happyHourPrice": 7.0,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "$7 Happy Hour Pints; $8 Swan Draught baseline pints",
+    "spenny": "$",
+    "sourceUrl": "https://www.facebook.com/7thavebarandrestaurant/"
+  },
+  "Varsity Bar (Joondalup)_20 Reid Promenade, Joondalup WA 6027, Australia": {
+    "beerName": "Varsity Lager",
+    "price": 11.0,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Monday Quiz Night ($100 1st place voucher); ECU Student Perks",
+    "spenny": "$",
+    "sourceUrl": "https://www.varsity.com.au/quiz-night"
+  },
+  "The Subiaco Hotel_226 Hay Street, Subiaco WA, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "Wednesday Quiz Night Specials & $50 Voucher Prizes",
+    "spenny": "$$",
+    "sourceUrl": "https://www.facebook.com/subiacohotel/"
+  },
+  "Rose Hotel_27 Wellington Street, Bunbury WA, Australia": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Wednesday Meal Specials on Quiz Night",
+    "spenny": "$$",
+    "sourceUrl": "https://www.rosehotel.com.au/whats-on"
+  },
+  "Mt Henry Tavern_27 Manning Rd, Perth WA 6152": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Wednesday Quiz Night Food Specials",
+    "spenny": "$",
+    "sourceUrl": "https://www.mthenrytavern.com.au/menus-and-specials"
+  },
+  "Murphy's Irish Pub_43 Mandurah Terrace, Mandurah WA 6210": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": "5:00pm - 6:00pm",
+    "specials": "$19 Schnitzels & Parmis on Quiz Night",
+    "spenny": "$$",
+    "sourceUrl": "https://www.murphysirishpub.com.au/events"
+  },
+  "Civic Hotel_981 Beaufort St, Inglewood WA 6052": {
+    "beerName": null,
+    "price": null,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Tuesday Quiz Night ($50 voucher prizes)",
+    "spenny": "$$",
+    "sourceUrl": "https://thecivichotel.com.au/events/quiz-night/"
+  },
+  "Sandbar_1 Scarborough Beach Rd, Scarborough WA 6019": {
+    "beerName": "Coopers Pale / Pacific Ale",
+    "price": 10.5,
+    "happyHourPrice": 7.0,
+    "quizDayHappyHour": "7:00pm - 9:00pm",
+    "specials": "$20 Pizza Specials & $7 Schooners on Quiz Night",
+    "spenny": "$$",
+    "sourceUrl": "https://www.destinationperth.com.au/event/quiz-meisters-trivia-night-at-the-sandbar/3811/"
+  },
+  "Varsity Bar (Nedlands)_Broadway Fair Shopping Centre, 88 Broadway, Crawley WA 6009": {
+    "beerName": "Varsity Lager",
+    "price": 11.0,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Monday Quiz Night ($100 1st place voucher); UWA Student Perks",
+    "spenny": "$",
+    "sourceUrl": "https://www.varsity.com.au/quiz-night"
+  },
+  "Varsity Bar (Waterford)_55/230 Manning Rd, Karawara WA 6152": {
+    "beerName": "Varsity Lager",
+    "price": 11.0,
+    "happyHourPrice": null,
+    "quizDayHappyHour": null,
+    "specials": "Monday Quiz Night ($100 1st place voucher); Curtin Student Perks",
+    "spenny": "$",
+    "sourceUrl": "https://www.varsity.com.au/quiz-night"
+  }
+}

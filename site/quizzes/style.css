@@ -63,7 +63,52 @@
 }
 
 
-.commute-legend {
+.map-controls-row {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+@media (min-width: 768px) {
+  .map-controls-row {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+
+.map-mode-toggle {
+  display: flex;
+  background: transparent;
+  border: 1px solid var(--oak, #D0C6B0);
+  border-radius: 999px;
+  overflow: hidden;
+  width: fit-content;
+}
+
+.mode-btn {
+  background: transparent;
+  color: var(--text, #453018);
+  border: none;
+  padding: 0.4rem 0.8rem;
+  font-size: 0.85rem;
+  font-family: var(--font-body, 'Inconsolata', monospace);
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.mode-btn:hover, .mode-btn:focus-visible {
+  background: rgba(0, 0, 0, 0.03);
+}
+
+.mode-btn.active {
+  background: var(--text, #453018);
+  color: var(--bg, #FAFAEA);
+}
+
+.map-legend {
   display: flex;
   flex-wrap: wrap;
   gap: 0.75rem;
@@ -73,10 +118,15 @@
   color: var(--text, #453018);
 }
 
-.commute-legend span {
+.map-legend span {
   display: inline-flex;
   align-items: center;
   gap: 0.35rem;
+}
+
+.legend-faded-note {
+  font-style: italic;
+  opacity: 0.7;
 }
 
 .legend-dot {
@@ -169,4 +219,60 @@
 .custom-marker.commute-far,
 .legend-dot.commute-far {
   background: #e76f51;
+}
+
+/* Tabs */
+.popup-tabs-nav {
+  display: flex;
+  border-bottom: 1px solid var(--oak, #D0C6B0);
+  margin-bottom: 8px;
+  gap: 4px;
+}
+
+.popup-tab-btn {
+  flex: 1;
+  background: none;
+  border: none;
+  border-bottom: 2px solid transparent;
+  padding: 4px;
+  font-family: var(--font-body, 'Inconsolata', monospace);
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--text, #453018);
+  cursor: pointer;
+  opacity: 0.6;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.popup-tab-btn:hover {
+  opacity: 0.8;
+}
+
+.popup-tab-btn.active {
+  opacity: 1;
+  border-bottom-color: var(--caramel, #C46210);
+  color: var(--brand, #800000);
+}
+
+.popup-tab-content {
+  display: none;
+  min-height: 80px;
+}
+
+.popup-tab-content.active {
+  display: block;
+}
+
+.popup-tab-content p {
+  margin-bottom: 4px;
+}
+
+/* Price Marker Colors */
+.custom-marker.spenny-1, .legend-dot.spenny-1 { background: #2a9d8f; }
+.custom-marker.spenny-2, .legend-dot.spenny-2 { background: #e9c46a; }
+.custom-marker.spenny-3, .legend-dot.spenny-3 { background: #e76f51; }
+
+.custom-marker.price-missing {
+  opacity: 0.5;
 }
