@@ -271,3 +271,9 @@
 .custom-marker.price-missing {
   opacity: 0.5;
 }
+
+/* Make Leaflet's native close button 20% bigger */
+.leaflet-popup-close-button {
+  transform: scale(1.2);
+  transform-origin: top right;
+}
