@@ -1,0 +1,109 @@
+/* ============================================================
+   FastTyper Demo Styles
+   ============================================================ */
+
+/* Demo Editor Container */
+.demo-editor {
+  background-color: #ffffff;
+  border: 1px solid var(--oak);
+  border-radius: var(--radius);
+  padding: 2rem;
+  font-family: var(--font-body);
+  font-size: 1.125rem;
+  line-height: 1.7;
+  color: var(--text);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);
+  margin: 2rem 0;
+  min-height: 120px;
+}
+
+/* 1. Processing State (In-flight request) */
+.ft-processing {
+  text-decoration: underline;
+  text-decoration-color: #d97706; /* Amber */
+  text-decoration-thickness: 2px;
+}
+
+.ft-processing-thinking {
+  animation: pulse-amber 1.5s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+@keyframes pulse-amber {
+  0%, 100% { text-decoration-color: rgba(217, 119, 6, 1); }
+  50% { text-decoration-color: rgba(217, 119, 6, 0.3); }
+}
+
+/* 2. Correction State (Applied diff hunks) */
+.grammar-applied-underline {
+  text-decoration: underline wavy #3b82f6 2px; /* Blue wavy underline */
+  cursor: pointer;
+  position: relative;
+  display: inline-block;
+}
+
+/* 3. Revert Tooltip */
+.grammar-applied-underline .ft-tooltip {
+  visibility: hidden;
+  opacity: 0;
+  background-color: var(--text);
+  color: var(--bg);
+  text-align: center;
+  border-radius: 6px;
+  padding: 8px 12px;
+  position: absolute;
+  z-index: 10;
+  bottom: 140%;
+  left: 50%;
+  transform: translateX(-50%);
+  white-space: nowrap;
+  border: 1px solid var(--text);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  font-size: 0.875rem;
+  transition: opacity 0.2s, visibility 0.2s;
+}
+
+.grammar-applied-underline:hover .ft-tooltip {
+  visibility: visible;
+  opacity: 1;
+}
+
+/* Tooltip arrow */
+.ft-tooltip::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -6px;
+  border-width: 6px;
+  border-style: solid;
+  border-color: var(--text) transparent transparent transparent;
+}
+
+/* Bracketed [original] styling */
+.ft-original {
+  color: #ff8c8c;
+  background: rgba(255, 140, 140, 0.15);
+  padding: 0 2px;
+  border-radius: 3px;
+}
+
+/* Muted click-to-revert hint */
+.ft-hint {
+  display: block;
+  font-size: 0.75rem;
+  color: var(--oak);
+  margin-top: 6px;
+}
+
+/* Typing Cursor */
+.demo-cursor {
+  display: inline-block;
+  width: 2px;
+  background-color: var(--caramel);
+  animation: blink 1s step-end infinite;
+  vertical-align: text-bottom;
+  height: 1.2em;
+  margin-left: 2px;
+}
+
+@keyframes blink { 50% { opacity: 0; } }
