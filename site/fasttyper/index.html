@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>FastTyper — etienneunai.com</title>
+  <meta name="description" content="Fully-local, low-latency grammatical error and spelling correction.">
+  <meta name="author" content="Etienne Vinton Horn">
+  <link rel="canonical" href="https://etienneunai.com/fasttyper">
+
+  <meta name="theme-color" content="#FAFAEA">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;600&family=Ovo&display=swap" rel="stylesheet">
+
+  <link rel="icon" type="image/svg+xml" href="../assets/img/favicon.svg">
+  <link rel="stylesheet" href="../assets/css/styles.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="/" style="text-decoration: none;">
+        <h1 class="brand" aria-label="etienneunai.com">etienneunai.com</h1>
+      </a>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="projects" aria-labelledby="fasttyper-heading">
+      <h2 class="section-title" id="fasttyper-heading">
+        FastTyper
+      </h2>
+      <p>
+        A local-LLM-based spell and grammar checker that rapidly corrects text in real-time, as you type. It uses a fine-tuned model (not made by me) that runs on your GPU and only changes typos, never modifying the original wording or meaning.
+        I designed it to speed up my note-taking in lectures, allowing me to focus on the content without constantly back-tracking to fix typos.
+      </p>
+
+      <!-- DEMO BOX -->
+      <div class="demo-editor" aria-hidden="true">
+        <span id="text-container"></span><span class="demo-cursor"></span>
+      </div>
+
+      <p>
+        <em>Note: FastTyper is currently a work in progress, with support only for Linux and AMD GPUs at the moment.</em>
+      </p>
+      <div class="project-links" style="margin-top: 1.5rem;">
+        <a href="https://github.com/etienneunai/FastTyper" target="_blank" rel="noopener noreferrer">View on GitHub</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© 2026 Etienne Vinton Horn</p>
+    </div>
+  </footer>
+
+  <script src="demo.js" defer></script>
+</body>
+</html>

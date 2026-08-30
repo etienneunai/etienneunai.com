@@ -3,16 +3,17 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Etienne Vinton Horn — etienneunai.com</title>
+  <title>Etienne Vinton Horn</title>
   <meta name="description" content="Etienne Vinton Horn — Personal Website">
   <meta name="author" content="Etienne Vinton Horn">
-  <link rel="canonical" href="https://etienneunai.com/">
+  <meta name="robots" content="noindex">
+  <link rel="canonical" href="https://etienneunai.com">
 
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="etienneunai.com">
   <meta property="og:title" content="Etienne Vinton Horn">
   <meta property="og:description" content="My personal website.">
-  <meta property="og:url" content="https://etienneunai.com/">
+  <meta property="og:url" content="https://etienneunai.com">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Etienne Vinton Horn">
   <meta name="twitter:description" content="My personal website.">
@@ -40,7 +41,7 @@
   <main class="container">
     <section class="intro" aria-labelledby="intro-heading">
       <h2 class="sr-only" id="intro-heading">About</h2>
-      <p>Hi, I'm Etienne! I'm currently studying Computer Science and AI at UWA.<br>In my free time I enjoy reading, learning, and building cool side projects.</p>
+      <p>Hi, I'm Etienne! I'm in my third year of studying AI at UWA.<br>In my free time I enjoy reading, learning, and building cool side projects.</p>
     </section>
 
     <section class="contact" aria-labelledby="contact-heading">
@@ -70,9 +71,62 @@
       </div>
     </section>
 
-    <section class="coming-soon" aria-labelledby="coming-soon-heading">
-      <h2 class="section-title" id="coming-soon-heading">Coming soon<span class="ellipsis" aria-hidden="true"></span></h2>
+    <section class="projects" aria-labelledby="projects-heading">
+      <h2 class="section-title" id="projects-heading">Top Projects</h2>
+      <p>Some of my favourite projects for courses at UWA.</p>
+      <div class="project-grid">
+        <article class="project-card">
+          <h3 class="project-name">UWAGuessr</h3>
+          <p class="project-desc">A group web dev project creating a GeoGuessr clone set in the UWA campus. I handled the photo capture around campus, backend game logic, and current deployment.</p>
+          <div class="project-links">
+            <a href="https://uwaguessr.com" target="_blank" rel="noopener noreferrer">uwaguessr.com</a> <br>
+            <a href="https://github.com/etienneunai/UWAGuessr_online" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
+          </div>
+        </article>
+
+        <article class="project-card">
+          <h3 class="project-name">Diplomacy Bot</h3>
+          <p class="project-desc">A solo project developing an autonomous bot to play the strategy board game <em>Diplomacy</em>, built for my Intelligent Agents unit. It takes a basic greedy approach, but performed surprisingly well.</p>
+          <div class="project-links">
+            <a href="https://github.com/etienneunai/cits-3011-diplomacy" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
+          </div>
+        </article>
+      </div>
     </section>
+    <section class="projects" aria-labelledby="slop-projects-heading">
+      <h2 class="section-title" id="slop-projects-heading">Slop Projects</h2>
+      <p>Random side projects I've worked on.</p>
+      <div class="project-grid">
+        <article class="project-card">
+          <h3 class="project-name">QuizMap</h3>
+          <p class="project-desc">An interactive map of quizzes in WA, pooling in data from various sources to allow easy comparison.</p>
+          <div class="project-links">
+            <a href="https://etienneunai.com/quizzes" target="_blank" rel="noopener noreferrer">etienneunai.com/quizzes</a> <br>
+          </div>
+        </article>
+
+        <article class="project-card">
+          <h3 class="project-name">FastTyper</h3>
+          <p class="project-desc">A fully-local LLM based spell checker. Includes extensions for both Obsidian and Firefox.</p>
+          <div class="project-links">
+            <a href="/fasttyper">Demo</a> <br>
+            <a href="https://github.com/etienneunai/FastTyper" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
+          </div>
+        </article>
+      </div>
+    </section>
+
+   <!--  <section class="splat" aria-labelledby="splat-heading">
+      <h2 class="section-title" id="splat-heading">Gaussian Splatting</h2>
+      <div class="splat-viewport">
+        <iframe id="viewer"
+                src="https://superspl.at/s?id=e46f1838"
+                title="Interactive gaussian splat"
+                allow="fullscreen"
+                loading="lazy"></iframe>
+      </div>
+      <p class="splat-caption">A gaussian splat I captured and processed in RealityScan and Lichtfeld, testing the limits of the technique.<br>I hope to soon replace this with my own renderer implementation.</p>
+    </section> -->
   </main>
 
   <footer class="site-footer">

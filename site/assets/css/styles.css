@@ -91,18 +91,6 @@ a:hover, a:focus-visible {
   white-space: nowrap;
 }
 
-.wip-badge {
-  font-family: var(--font-body);
-  font-size: 0.75rem;
-  font-weight: 600;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  color: var(--text);
-  background: var(--oak);
-  padding: 0.35rem 0.8rem;
-  border-radius: 999px;
-  white-space: nowrap;
-}
 
 /* ============ Intro ============ */
 .intro { padding: 1.5rem 0 2.5rem; }
